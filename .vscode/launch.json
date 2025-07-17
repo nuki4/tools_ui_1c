@@ -1,4 +1,6 @@
 {
+  //SET EDT_PATH="C:\Program Files\1C\1CE\components\1c-edt-2024.1.1+29-x86_64\"
+  //SET PLATFORM_PATH="C:\Program Files\1cv8\8.3.25.1560\bin\"
   // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
   // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
   // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
@@ -10,8 +12,8 @@
       "request": "launch",
       "program": "${workspaceRoot}/src/builder/build.os",
       "args": [
-        "--platformSource=/opt/1cv8/x86_64/8.3.12.1924",
-        "--edtSource=/home/levkin/.local/share/1C/1cedtstart/installations/1C_EDT (Lite) 2024.1/1cedt/"
+        "--platformSource='C:\\Program Files\\1cv8\\8.3.25.1560\\bin\\'",
+        "--edtSource='C:\\Program Files\\1C\\1CE\\components\\1c-edt-2024.1.1+29-x86_64\\'"
       ],
       "cwd": "${workspaceRoot}",
       "env": {},
