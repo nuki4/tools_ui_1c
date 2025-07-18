@@ -1,0 +1,34 @@
+#Translations for: interface
+
+Attribute._РежимРаботы.Title=Working hours
+Attribute.АутентификацияОС.Title=Operating System Authentication
+Attribute.АутентификацияСтандартная.Title=1C\:Enterprise authentication
+Attribute.ЗащитаОтОпасныхДействий.Title=Protection against dangerous activities
+Attribute.Идентификатор.Title=Identifier
+Attribute.ИдентификаторПользователяИБ.Title=Information Security User ID
+Attribute.Имя.Title=Name
+Attribute.Пароль.Title=Password
+Attribute.ПодтверждениеПароля.Title=Confirm your password
+Attribute.ПоказыватьВСпискеВыбора.Title=Show in selection list
+Attribute.ПолноеИмя.Title=Full name
+Attribute.ПользовательОС.Title=OS User
+Attribute.РолиПользователя.Title=User Roles
+Attribute.РолиПользователя.Имя.Title=Name
+Attribute.РолиПользователя.Пометка.Title=Available
+Attribute.РолиПользователя.Представление.Title=Presentation
+Attribute.РолиПользователя.Присвоена.Title=Assigned
+Command._ПоказатьТолькоДоступные.Title=Only available
+Command._ПоказатьТолькоДоступные.ToolTip=Show only available roles
+Command.ЗаписатьОбъект.Title=OK
+Command.ЗаписатьОбъект.ToolTip=Record Object
+Command.ИзменитьПароль.Title=Change password
+Command.ИзменитьПароль.ToolTip=Change password
+Item.ГруппаКоманды.Title=Team Group
+Item.ГруппаКоманды.ToolTip=Team Group
+Item.ГруппаСтраницы.Title=Page Group
+Item.ГруппаСтраницы.ToolTip=Page Group
+Item.РолиПользователяПометка.ToolTip=Role available
+Item.СтрОсновное.Title=Main
+Item.СтрОсновное.ToolTip=Page General
+Item.СтрРоли.Title=Raleigh
+Item.СтрРоли.ToolTip=Role page

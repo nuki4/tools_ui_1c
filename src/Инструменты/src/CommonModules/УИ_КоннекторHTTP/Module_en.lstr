@@ -1,0 +1,12 @@
+#Translations for: interface
+
+Method.ВырезатьТекст.NStr.<Данные>.Lines=<Данные>
+Method.ЗаписатьZip.NStr.Работа\ с\ Zip-файлами\ в\ мобильной\ платформе\ не\ поддерживается.Lines=Working with Zip files in the mobile platform is not supported
+Method.КакJson.NStr.Ошибка\ при\ десериализации\ JSON\..Lines=Error in JSON deserialization.
+Method.КакXDTO.NStr.Ошибка\ при\ десериализации\ XDTO\..Lines=Error during XDTO deserialization.
+Method.КакИсключение.Var.ТекстИсключения.NStr.HTTP\ %1\ %2\n%3.Lines=HTTP %1 %2\n%3
+Method.КакИсключение.Var.ТекстИсключения.NStr.Тело\ ответа\:\n%1.Lines=Response body\:\n%1
+Method.ОтправитьЗапрос.Var.ТекстОшибки.NStr.HTTP\ %1\ %2\nNetwork\ error\:\n%3.Lines=HTTP %1 %2\nNetwork error\:\n%3
+Method.ПредставлениеКодаСостоянияHTTP.NStr.%1\:\ Неизвестный\ код\ состояния\ HTTP.Lines=%1\: Unknown HTTP Status Code
+Method.Приостановить.NStr.Процедура\ Приостановить\ не\ работает\ должным\ образом.Lines=The Suspend procedure does not work as expected
+Method.ПрочитатьZip.NStr.Работа\ с\ Zip-файлами\ в\ мобильной\ платформе\ не\ поддерживается.Lines=Working with Zip files in the mobile platform is not supported

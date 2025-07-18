@@ -1,0 +1,33 @@
+#Translations for: interface
+
+Command.ВыгрузитьКодОбработчиков.Title=Unload the handler code
+Command.ВыгрузитьКодОбработчиков.ToolTip=Unload the handler code
+Command.Готово.Title=Ready
+Command.Готово.ToolTip=Ready
+Command.ОткрытьФайл.Title=Open file
+Command.ОткрытьФайл.ToolTip=Open file
+Item.ВыгрузитьКодОбработчиков.Title=Generate an upload debugging module
+Item.Группа_0.Title=0
+Item.Группа_1.Title=1
+Item.Группа_2.Title=2
+Item.Группа_Шаг_1.Title=1. Select the algorithm code debugging mode
+Item.Группа_Шаг_2.Title=2. Unload the handler code
+Item.Группа_Шаг_3.Title=3. Explanation of External Processing File Creation
+Item.Группа_Шаг_4.Title=4. Create (update) an external processing file
+Item.ГруппаВыгрузкиОбработчиков.Title=Unloading handlers
+Item.ГруппаОтладкиАлгоритмов.Title=Debugging algorithms
+Item.Декорация1.Title=External processing file name with the debugging engine on the server
+Item.Декорация2.Title=External processing file name with the debugging engine on the server
+Item.ДекорацияБезОтладки.Title=Algorithms are not uploaded. The mode is convenient to use when you do not need to debug algorithms. Algorithms will run, but their code is not available for debugging.
+Item.ДекорацияКакПроцедуры.Title=Algorithms are unloaded as separate procedures. When the algorithm is called, the corresponding processing procedure is accessed. See Help for limitations on using the mode.
+Item.ДекорацияПоМестуВызова.Title=Algorithms are unloaded as integrated code in handlers, i.e. instead of the algorithm call string, the full algorithm code is inserted, taking into account the nested algorithms. See Help for limitations on using the mode.
+Item.ИмяФайлаВнешнейОбработкиОбработчиковСобытий.Title=External processing file name with the debugging engine on the server
+Item.НижняяКоманднаяПанель.Title=Bottom Command Bar
+Item.ОтладкаАлгоритмов.ChoiceList.0.Presentation=Without debugging algorithms
+Item.ОтладкаАлгоритмов.ChoiceList.1.Presentation=Call algorithms as procedures
+Item.ОтладкаАлгоритмов.ChoiceList.2.Presentation=Substitute algorithm code at the place of call
+Item.ПодсказкаОтладкаАлгоритмов.Title=Hint\: debugging algorithms
+Item.ПояснениеДекорация.Title=1. After the debugging module is formed, copy the received handler code to the clipboard.\n2. Open the configurator and create a new external processing. Paste the contents of the clipboard into the processing module. Save processing.\n3. At the final fourth step, specify the newly created processing as processing with export procedures of processors.\n
+Item.СтраницаЗеленый.Title=Page green
+Item.СтраницаКрасный.Title=Page red
+Item.СтраницыШаг4.Title=Pages Step 4

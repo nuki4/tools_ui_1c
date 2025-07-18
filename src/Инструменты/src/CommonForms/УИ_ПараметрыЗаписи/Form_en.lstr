@@ -1,0 +1,21 @@
+#Translations for: interface
+
+Attribute.БезАвторегистрацииИзменений.Title=No auto-registration of changes
+Attribute.ДополнительныеСвойства.Title=Additional properties (set before writing the object)
+Attribute.ДополнительныеСвойства.Значение.Title=Meaning
+Attribute.ДополнительныеСвойства.Ключ.Title=The key
+Attribute.ЗаписьВРежимеЗагрузки.Title=Recording in Download Mode (Checks Disabled, Sharing.Download\=True)
+Attribute.ИспользоватьДопСвойства.Title=Use additional properties
+Attribute.ИспользоватьПроцедуруПередЗаписью.Title=Perform the procedure before recording or posting the object
+Attribute.ПолеАлгоритмаПередЗаписью.Title=Algorithm field before recording
+Attribute.ПривилегированныйРежим.Title=Privileged Treatment
+Attribute.ПроцедураПередЗаписью.Title=Algorithm in 1C language, executed before recording or posting an Object after setting the Additional Properties (accessing the Object through the Object variable)
+Attribute.ТипОбъекта.Title=Object type
+Command.ВставитьУникальныйИдентификатор.Title=Insert a unique identifier...
+Command.ВставитьУникальныйИдентификатор.ToolTip=Insert a unique identifier...
+Command.Применить.Title=Apply
+Item.ГруппаДополнительныеСвойства.Title=Additional properties
+Item.ГруппаПроцедураПередЗаписью.Title=Pre-Write Procedure
+Item.ГруппаСтраницыПараметровЗаписи.Title=Recording Settings Page Group
+Item.ДекорацияДополнительныеСвойства.Title=List of properties that will be set in Object.AdvancedProperties before writing or posting an object
+Item.ПолеАлгоритмаПередЗаписью.Title=Algorithm in 1C language, executed before recording or posting an Object after setting the Additional Properties (accessing the Object through the Object variable)

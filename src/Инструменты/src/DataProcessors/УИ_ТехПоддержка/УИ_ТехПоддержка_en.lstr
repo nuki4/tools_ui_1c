@@ -1,0 +1,11 @@
+#Translations for: interface
+
+Command.ВопросРазработчику.Synonym=Ask the developer
+Command.ИнформацияДляТехподдержки.Synonym=Support Information
+Command.ОчиститьКэшИнструментовНаКлиенте.Synonym=Clear the tool cache on the client
+Command.ПроверитьНеобходимостьОбновления.Synonym=Check if you need to update
+Command.СтраницаРазработки.Synonym=Development page
+ExtendedPresentation=Technical support
+Form.ОбновлениеИнструментов.Synonym=Updating Tools
+Form.СписокЗадач.Synonym=Task List
+Synonym=Tech Support [TOU]

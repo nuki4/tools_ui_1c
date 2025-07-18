@@ -1,0 +1,17 @@
+#Translations for: interface
+
+Attribute.КаталогДаныхОтладкиНаСервере.Title=Server debugging data catalog
+Attribute.КлючОбъектаНастроек.Title=Settings Object Key
+Attribute.ТаблицаСохраненныхНастроек.Title=Table of saved settings
+Attribute.ТаблицаСохраненныхНастроек.Автор.Title=Author
+Attribute.ТаблицаСохраненныхНастроек.АдресВХранилищеДанныхОтладки.Title=Address in the debug data store
+Attribute.ТаблицаСохраненныхНастроек.ДатаСоздания.Title=Creation Date
+Attribute.ТаблицаСохраненныхНастроек.ИмяОбъектаОтладки.Title=Debug Object Name
+Attribute.ТаблицаСохраненныхНастроек.Картинка.Title=Picture
+Attribute.ТаблицаСохраненныхНастроек.Пользователь.Title=User
+Attribute.ТаблицаСохраненныхНастроек.ТипОбъектаОтладки.Title=Debug Object Type
+Attribute.ТаблицаСохраненныхНастроек.ЭтоФайл.Title=This is a
+Command.ВыполнитьОтладку.Title=Debug
+Command.ОбновитьТаблицу.Title=Refresh Table
+Command.Удалить.Title=Delete
+Item.ТаблицаСохраненныхНастроекИмяОбъектаОтладки.Title=Name

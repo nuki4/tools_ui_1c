@@ -1,0 +1,11 @@
+#Translations for: interface
+
+Attribute.ВариантИспользованияКонсолиЗапросов.Title=Query console use case
+Attribute.ПутьКВнешнейКонсолиЗапросов.Title=External Query Console Path
+Command.Подтвердить.Title=OK
+Command.Подтвердить.ToolTip=Confirm
+Item.ВариантИспользованияКонсолиЗапросов.ChoiceList.0.Presentation=As part of the treatment
+Item.ВариантИспользованияКонсолиЗапросов.ChoiceList.1.Presentation=As part of the configuration
+Item.ВариантИспользованияКонсолиЗапросов.ChoiceList.2.Presentation=In the catalog
+Item.ВариантИспользованияКонсолиЗапросов.Title=Query console
+Title=Query console settings

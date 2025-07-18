@@ -1,0 +1,7 @@
+#Translations for: interface
+
+Explanation=Allows you to edit JSON strings in a convenient form. Contains JSON syntax highlighting, tree editing, some auto-substitution
+ExtendedPresentation=JSON Editor
+Form.Форма.Synonym=Form
+Synonym=JSON Editor [JS]
+Template.jsoneditor.Synonym=Jsoneditor

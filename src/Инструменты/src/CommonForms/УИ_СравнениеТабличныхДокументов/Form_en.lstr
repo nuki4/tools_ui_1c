@@ -1,0 +1,17 @@
+#Translations for: interface
+
+Attribute.ТабличныйДокументЛевый.Title=Tabular document left
+Attribute.ТабличныйДокументПравый.Title=Tabular document right
+Command.ПредыдущееИзменениеЛевый.Title=Previous Modification
+Command.ПредыдущееИзменениеЛевый.ToolTip=Previous Modification
+Command.ПредыдущееИзменениеПравый.Title=Previous Modification
+Command.ПредыдущееИзменениеПравый.ToolTip=Previous Modification
+Command.СледующееИзменениеЛевый.Title=Next Change
+Command.СледующееИзменениеЛевый.ToolTip=Next Change
+Command.СледующееИзменениеПравый.Title=Next Change
+Command.СледующееИзменениеПравый.ToolTip=Next Change
+Item.ГруппаКоманднаяПанельЛевогоТабличногоДокумента.Title=Command panel of the left spreadsheet
+Item.ГруппаКоманднаяПанельПравогоТабличногоДокумента.Title=Right Spreadsheet Command Panel
+Item.ГруппаЛевыйТабличныйДокумент.Title=Version No
+Item.ГруппаПравыйТабличныйДокумент.Title=Version No
+Item.ГруппаТабличныеДокументы.Title=Tabular documents

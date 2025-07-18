@@ -1,0 +1,11 @@
+#Translations for: interface
+
+Attribute.АдресДанныхРасшифровки.Title=Decryption data address
+Attribute.АдресСхемыИсполненногоОтчета.Title=Address of the scheme of the executed report
+Attribute.ИмяФормыРасшифровки.Title=Name of the decryption form
+Attribute.Результат.Title=Result
+Command.ИзменитьВариант.Title=Change Option...
+Command.ИзменитьВариант.ToolTip=Change option
+Command.Сформировать.Title=Form
+Command.Сформировать.ToolTip=Form
+Title=Decoding

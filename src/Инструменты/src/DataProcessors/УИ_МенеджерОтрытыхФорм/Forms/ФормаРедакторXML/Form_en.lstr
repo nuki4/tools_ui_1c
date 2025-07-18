@@ -1,0 +1,5 @@
+#Translations for: interface
+
+Attribute.ЗначениеСтрокой.Title=String Value
+Command.ПрименитьЗначение.Title=Apply Value
+Command.ПрименитьЗначение.ToolTip=Apply Value

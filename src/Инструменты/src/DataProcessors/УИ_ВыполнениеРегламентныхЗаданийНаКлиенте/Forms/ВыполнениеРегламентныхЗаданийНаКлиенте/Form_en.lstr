@@ -1,0 +1,25 @@
+#Translations for: interface
+
+Attribute.ИнтервалВремениПроверкиВыполнения.Title=Interval for checking and executing tasks
+Attribute.Объект.Title=Object
+Attribute.ОсталосьДоНачалаВыполнения.Title=Time interval in seconds until the next execution check\n\t\t\t\troutine tasks.
+Attribute.ТаблицаРегламентныхЗаданий.Title=Table of routine tasks
+Attribute.ТаблицаРегламентныхЗаданий.Выполнено.Title=Solved
+Attribute.ТаблицаРегламентныхЗаданий.Выполнять.Title=Perform
+Attribute.ТаблицаРегламентныхЗаданий.Идентификатор.Title=Identifier
+Attribute.ТаблицаРегламентныхЗаданий.Изменено.Title=Changed
+Attribute.ТаблицаРегламентныхЗаданий.Номер.Title=p/n
+Attribute.ТаблицаРегламентныхЗаданий.РегламентноеЗадание.Title=Regulatory task
+Attribute.ТаблицаРегламентныхЗаданий.Статус.Title=Status
+Command.ОчиститьКоличествоЗапусков.Title=Clear the number of job runs
+Command.ПрекратитьВыполнение.Title=Stop execution and close
+Command.ПрекратитьВыполнение.ToolTip=Stop Execution
+Item.ГруппаИнтервалВремениВыполнения.Title=Run Time Interval group
+Item.ГруппаПояснение.Title=Group explanation
+Item.ДекорацияСекунд.Title=Seconds
+Item.КомандыСписка.Title=List commands
+Item.КомандыСписка.ToolTip=List commands
+Item.ПериодВыполнения.ToolTip=Set from 5 to 600 seconds
+Item.РегламентныеЗаданияВыполнено.Title=Last Run
+Item.РегламентныеЗаданияВыполнять.ToolTip=Perform a routine task
+Item.СтрокаСостояния.Title=Check the routine tasks to be completed on this\n\t\t\t\t\tclient computer...\n\t\t\t\t

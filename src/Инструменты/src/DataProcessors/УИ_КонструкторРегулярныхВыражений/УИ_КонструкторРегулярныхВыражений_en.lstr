@@ -1,0 +1,37 @@
+#Translations for: interface
+
+Attribute.Global.Synonym=Full-row search
+Attribute.IgnoreCase.Synonym=Case-insensitive
+Attribute.Multiline.Synonym=Multi-line text
+Attribute.SubMatches.Synonym=SubMatches
+Attribute.SubMatchesIndex.Synonym=SubMatchesIndex
+Attribute.Варианты.Synonym=Options
+Attribute.КонецТекста.Synonym=End of text
+Attribute.ЛеваяСкобкаПараметра.Synonym=Left bracket 
+Attribute.Маска.Synonym=Mask
+Attribute.МаскаРезультата.Synonym=Result mask
+Attribute.ПраваяСкобкаПараметра.Synonym=Right bracket
+Attribute.Результат.Synonym=Result
+Attribute.СписокВыбораМаски.Synonym=Mask Selection List
+Attribute.Текст.Synonym=Text
+Attribute.ТекстПодстановки.Synonym=Wildcard text
+Attribute.Форматирование.Synonym=Formatting
+Attribute.ШаблонИмениПараметра.Synonym=Name Pattern
+Explanation=allows you to build complexly structured expressions based on a parametric description, test them, and as a result get a 1C program code
+ExtendedPresentation=Regular Expression Constructor
+Form.ИмпортВыражений.Synonym=Importing Expressions
+Form.РедакторВыражения.Synonym=Expression Editor
+Form.Форма.Synonym=Form
+Synonym=Regular Expression Constructor [OU]
+TabularSection.Параметры.Attribute.Варианты.Synonym=Options
+TabularSection.Параметры.Attribute.Замещать.Synonym=Replace
+TabularSection.Параметры.Attribute.ЗамещатьСписок.Synonym=Substitute (list)
+TabularSection.Параметры.Attribute.Значение.Synonym=Meaning
+TabularSection.Параметры.Attribute.Извлечь.Synonym=Extract
+TabularSection.Параметры.Attribute.ИзвлечьСписок.Synonym=Extract (list)
+TabularSection.Параметры.Attribute.Наименование.Synonym=Name
+TabularSection.Параметры.Attribute.Ссылка.Synonym=Reference
+TabularSection.Параметры.Attribute.Тест.Synonym=Text of the test
+TabularSection.Параметры.Attribute.Удалить.Synonym=Delete
+TabularSection.Параметры.Attribute.Форматирование.Synonym=Formatting
+TabularSection.Параметры.Synonym=Options

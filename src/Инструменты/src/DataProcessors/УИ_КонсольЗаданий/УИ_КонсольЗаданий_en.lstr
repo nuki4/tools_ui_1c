@@ -1,0 +1,11 @@
+#Translations for: interface
+
+Explanation=View and configure routine and background tasks
+ExtendedPresentation=Assignment console
+Form.ДиалогНастроекСписка.Synonym=List Settings Dialog
+Form.ДиалогОтбораРегламентногоЗадания.Synonym=Routine Task Selection Dialog
+Form.ДиалогОтбораФоновогоЗадания.Synonym=Background Job Selection Dialog
+Form.ДиалогРегламентногоЗадания.Synonym=Routine Task Dialog
+Form.ДиалогФоновогоЗадания.Synonym=Background Job Dialog
+Form.Форма.Synonym=Form
+Synonym=Quest Console [IA]

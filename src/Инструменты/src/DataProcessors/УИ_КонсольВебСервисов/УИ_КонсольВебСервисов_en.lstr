@@ -1,0 +1,7 @@
+#Translations for: interface
+
+Explanation=Processing for reading and executing web services on the 1C\: Enterprise platform 8.3. Analogue of soapUI. Processing allows you to perform a web service operation and display the result as an xml or tree
+ExtendedPresentation=Web Services Console (WS)
+Form.Форма.Synonym=Form
+Form.ФормаВводаСтруктуры.Synonym=Structure Input Form
+Synonym=Web Services Console (WS) [TOU]

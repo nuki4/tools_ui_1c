@@ -1,0 +1,13 @@
+#Translations for: interface
+
+Attribute.КолонкиСтроки.Title=Row Columns
+Attribute.НадписьТекстВыражения.Title=Text Expression Text
+Attribute.ПолеТекстовогоДокумента.Title=Text Document Field
+Attribute.ТекстВыражения.Title=Expression text
+Attribute.ТипРезультата.Title=Result type
+Command.ОК.Title=OK
+Command.ОК.ToolTip=OK
+Item.ГруппаКоманды.Title=Team Group
+Item.ГруппаКоманды.ToolTip=Team Group
+Item.Закрыть.Title=Cancel
+Title=Expression Editing Form

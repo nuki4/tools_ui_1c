@@ -1,0 +1,18 @@
+#Translations for: interface
+
+Attribute.Объекты.Title=Objects
+Attribute.ТабличныйДокумент.Title=Tabular document
+Command.ДобавитьРанееДобавленныеКСравнению.Title=Add Previously Added to Comparison
+Command.ДобавитьРанееДобавленныеКСравнению.ToolTip=Add Previously Added to Comparison
+Command.ОчиститьРанееДобавленныеКСравнению.Title=Clear previously added to comparison
+Command.ОчиститьРанееДобавленныеКСравнению.ToolTip=Clear previously added to comparison
+Command.Параметры.Title=Options
+Command.Параметры.ToolTip=Options
+Command.Сформировать.Title=Form
+Command.Сформировать.ToolTip=Form
+Item.ГруппаПараметры.Title=Parameters group
+Item.ГруппаПараметры.ToolTip=Parameters group
+Item.ОбъектыГруппаОбъектыКСравнению.Title=Objects added to the comparison
+Item.ОбъектыГруппаОбъектыКСравнению.ToolTip=Objects group objects to be compared
+Item.ОбъектыДобавитьРанееДобавленныеКСравнению.Title=Add to list
+Item.ОбъектыОчиститьРанееДобавленныеКСравнению.Title=Purify

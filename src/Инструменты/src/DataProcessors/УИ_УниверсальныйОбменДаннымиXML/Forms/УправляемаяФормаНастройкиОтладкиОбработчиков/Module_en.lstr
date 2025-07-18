@@ -1,0 +1,18 @@
+#Translations for: interface
+
+Method.ВыгрузитьКодОбработчиков.NStr.Выгрузить\ повторно.Lines=Re-upload
+Method.ВыгрузитьКодОбработчиков.NStr.Модуль\ отладки\ с\ кодом\ обработчиков\ уже\ выгружен\..Lines=The debug module with the handler code has already been unloaded.
+Method.ВыгрузитьКодОбработчиков.NStr.Открыть\ модуль.Lines=Open the module
+Method.Готово.NStr.Укажите\ имя\ файла\ внешней\ обработки\..Lines=Specify the name of the external processing file.
+Method.ИмяФайлаВнешнейОбработкиОбработчиковСобытийНачалоВыбора.Var.ДиалогВыбораФайла.NStr.Выберите\ файл.Lines=Choose a file
+Method.ИмяФайлаВнешнейОбработкиОбработчиковСобытийНачалоВыбора.Var.ДиалогВыбораФайла.NStr.Файл\ внешней\ обработки\ обработчиков\ событий\ (*\.epf)|*\.epf.Lines=External Event Handler File (*.epf)|*.epf
+Method.ПоказатьОбработчикиСобытийВОкне.NStr.Модуль\ отладки\ обработчиков.Lines=Handler Debugging Module
+Method.ПоказатьОбработчикиСобытийВОкне.NStr.Ошибки\ выгрузки\ модуля\ обработчиков.Lines=Unloading Engine Module Errors
+Method.ПриСозданииНаСервере.NStr.Использование\ обработки\ в\ интерактивном\ режиме\ доступно\ только\ администратору\..Lines=The use of online processing is available only to the administrator.
+Method.ПриСозданииНаСервере.Var.ЗаголовокКнопки.NStr.Сформировать\ модуль\ отладки\ %Событие%.Lines=
+Method.ПриСозданииНаСервере.Var.ЗаголовокФормы.NStr.Настройка\ отладки\ обработчиков\ при\ %Событие%\ данных.Lines=
+Method.ПриСозданииНаСервере.Var.Событие.NStr.выгрузке.Lines=Unloading
+Method.ПриСозданииНаСервере.Var.Событие.NStr.выгрузки.Lines=Unloading
+Method.ПриСозданииНаСервере.Var.Событие.NStr.загрузке.Lines=Load
+Method.ПриСозданииНаСервере.Var.Событие.NStr.загрузки.Lines=Download
+Method.ПроверкаСуществованияФайлаВнешнейОбработкиОбработчиковСобытийЗавершение.NStr.Указанный\ файл\ внешней\ обработки\ не\ существует\..Lines=The specified external processing file does not exist.

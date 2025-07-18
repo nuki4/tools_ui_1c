@@ -1,0 +1,9 @@
+#Translations for: interface
+
+Explanation=A fork of the standard processing from the BSP, to which several parameters for performing the replacement have been added
+ExtendedPresentation=Find and delete duplicates
+Form.ОбластьПоискаДублей.Synonym=Duplicate search area
+Form.ПоискДублей.Synonym=Search for duplicates
+Form.ПравилаОтбора.Synonym=Selection rules
+Form.ПравилаПоиска.Synonym=Search rules
+Synonym=Find and delete duplicates [TOU]

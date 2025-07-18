@@ -1,0 +1,22 @@
+#Translations for: interface
+
+Attribute.ДоступнаРегистрацияСредствамиБСП.Synonym=Registration by means of BSP is available
+Attribute.КонфигурацияПоддерживаетБСП.Synonym=Configuration supports BSP
+Attribute.НастройкаАвторегистрацияДвижений.Synonym=Auto-registration of movements
+Attribute.НастройкаАвторегистрацияДвижений.ToolTip=Auto-registration of movements
+Attribute.НастройкаАвторегистрацияПоследовательностей.Synonym=Auto-registration of sequences
+Attribute.НастройкаАвторегистрацияПоследовательностей.ToolTip=Auto-registration of sequences
+Attribute.НастройкаАдресВнешнейОбработкиЗапросов.Synonym=External request processing address
+Attribute.НастройкаАдресВнешнейОбработкиЗапросов.ToolTip=External request processing address
+Attribute.НастройкаВариантНомераСообщения.Synonym=Setting up a message number variant
+Attribute.НастройкаКонтрольВыгрузкиОбъектов.Synonym=Configuration can control the unloading of objects
+Explanation=Forking processing from the ITS disk with subsystem adaptations
+ExtendedPresentation=Registering Changes for Data Exchange
+Form.ВыборКонстанты.Synonym=Choosing a constant
+Form.ВыборОбъектовОтбором.Synonym=Selection of objects by selection
+Form.ВыборУзлаПланаОбмена.Synonym=Selecting a Node for an Exchange Plan
+Form.Настройки.Synonym=Settings
+Form.НомераСообщенийУзлаПланаОбмена.Synonym=Exchange Plan Host Message Numbers
+Form.УзлыРегистрацииОбъекта.Synonym=Object registration nodes
+Form.Форма.Synonym=Registering Changes for Data Exchange
+Synonym=Registration of changes for data exchange [TOU]

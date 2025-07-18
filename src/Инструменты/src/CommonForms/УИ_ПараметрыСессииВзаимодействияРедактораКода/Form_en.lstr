@@ -1,0 +1,10 @@
+#Translations for: interface
+
+Attribute.URLВзаимодействия.Title=Interaction URL
+Attribute.ИдентификаторСессии.Title=Session ID
+Attribute.ИмяПользователя.Title=Username
+Command.Подключиться.Title=Connect
+Item.URLВзаимодействия.ToolTip=The URL to connect to the interoperability service. Fill in when using your own service
+Item.ИдентификаторСессии.Title=Connect to the session
+Item.ИдентификаторСессии.ToolTip=Specify the ID of an existing session to connect to it, or leave the field blank to start a new one
+Item.ИмяПользователя.ToolTip=A name to display. In the absence of a random

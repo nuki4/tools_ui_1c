@@ -1,0 +1,14 @@
+#Translations for: interface
+
+Attribute.ТаблицаСоответствия.Title=Correspondence Table
+Attribute.ТаблицаСоответствия.Значение.Title=Meaning
+Attribute.ТаблицаСоответствия.ЗначениеКонтейнер.Title=Meaning of container
+Attribute.ТаблицаСоответствия.ЗначениеТипЗначения.Title=Value Type
+Attribute.ТаблицаСоответствия.ЗначениеТипЗначенияПредставление.Title=Value, Value Type, View
+Attribute.ТаблицаСоответствия.Ключ.Title=The key
+Attribute.ТаблицаСоответствия.КлючКонтейнер.Title=Meaning of container
+Attribute.ТаблицаСоответствия.КлючТипЗначения.Title=Key Value Type
+Attribute.ТаблицаСоответствия.КлючТипЗначенияПредставление.Title=Key Value Type View
+Command.Применить.Title=Apply
+Item.ТаблицаСоответствияЗначениеТипЗначенияПредставление.Title=Type(Value)
+Item.ТаблицаСоответствияКлючТипЗначенияПредставление.Title=Type(Key)

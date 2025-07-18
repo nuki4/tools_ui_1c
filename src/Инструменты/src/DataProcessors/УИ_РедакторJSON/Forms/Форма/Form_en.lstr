@@ -1,0 +1,19 @@
+#Translations for: interface
+
+Attribute.АдресБиблиотеки.Title=Library address
+Attribute.ИмяФайлаДанныхИнструмента.Title=Tool Data File Name
+Attribute.КаталогСохраненияБибилиотеки.Title=Library Preservation Catalogue
+Attribute.ПолеРедактораДерево.Title=Editor Field Tree
+Attribute.ПолеРедактораСтрока.Title=Editor Field String
+Attribute.РедактируемаяСтрока.Title=Editable string
+Attribute.РежимРедактирования.Title=Edit Mode
+Command.ЗавершитьРедактирование.Title=Stop editing
+Command.ЗакрытьИнструмент.Title=Close
+Command.НовыйФайл.Title=New
+Command.НовыйФайл.ToolTip=New Report File
+Command.ОткрытьФайл.Title=Open file
+Command.СкопироватьИзДереваВСтроку.Title=Copy from tree to string
+Command.СкопироватьИзСтрокиВДерево.Title=Copy from Row to Tree
+Command.СохранитьФайл.Title=Save File
+Command.СохранитьФайлКак.Title=Save File As
+Item.ФормаГруппаФайл.Title=File

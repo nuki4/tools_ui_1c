@@ -1,0 +1,19 @@
+#Translations for: interface
+
+Attribute.НоваяЗадачаОписание.Title=Description
+Attribute.НоваяЗадачаТема.Title=Subject
+Attribute.СписокЗадач.Title=Task List
+Attribute.СписокЗадач.URL.Title=URL
+Attribute.СписокЗадач.Номер.Title=Number
+Attribute.СписокЗадач.Ответственный.Title=Responsible
+Attribute.СписокЗадач.Статус.Title=Status
+Attribute.СписокЗадач.Теги.Title=Tags
+Attribute.СписокЗадач.Тема.Title=Subject
+Command.ОбновитьСписокЗадач.Title=Refresh Task List
+Command.СоздатьНовуюЗадачу.Title=Create a new task
+Command.СоздатьНовуюЗадачуНаГитхабе.Title=Create a new task on GitHub
+Command.СтраницаРазработки.Title=Development page
+Item.ГруппаНоваяЗадача.Title=A new challenge
+Item.ГруппаСписокЗадач.Title=Task List
+Item.ГруппаСтраницы.Title=Page Group
+Item.ДекорацияПредупреждение.Title=<b>IMPORTANT\!\! </>If you create a task through this form instead of <link https\://github.com/cpr1c/tools_ui_1c/issues>https\://github.com</>, you <b>will NOT <b>receive notifications<</>> about its change

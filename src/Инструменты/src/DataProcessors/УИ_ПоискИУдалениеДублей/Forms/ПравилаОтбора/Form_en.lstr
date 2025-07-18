@@ -1,0 +1,7 @@
+#Translations for: interface
+
+Command.Выбрать.Title=OK
+Command.Выбрать.ToolTip=Choose
+Item.КомпоновщикПредварительногоОтбораНастройкиОтбор.Title=Pre-Selection Builder Setup Picking
+Item.ФормаГруппаСправки.Title=Form Reference Group
+Title=Selection rules

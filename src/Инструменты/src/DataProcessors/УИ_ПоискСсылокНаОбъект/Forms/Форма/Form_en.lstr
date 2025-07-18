@@ -1,0 +1,21 @@
+#Translations for: interface
+
+Attribute.РезультатПоиска.Title=Results of search
+Attribute.РезультатПоиска.Картинка.Title=Picture
+Attribute.РезультатПоиска.МожноОткрыть.Title=You can open
+Attribute.РезультатПоиска.НайденныйОбъект.Title=Found object
+Attribute.РезультатПоиска.ПредставлениеОбъекта.Title=Property view
+Attribute.РезультатПоиска.Ссылка.Title=Reference
+Attribute.РезультатПоиска.СсылочныйТип.Title=Reference Type
+Attribute.РезультатПоиска.УникальныйИдентификатор.Title=Unique identifier
+Attribute.УникальныйИдентификаторИсточника.Title=Unique source identifier
+Command.ИсходныйОбъектПоСсылке.Title=Source object by reference
+Command.ИсходныйОбъектПоСсылке.ToolTip=Source object by navigation link
+Command.НайтиСсылки.Title=Find References
+Command.НайтиСсылки.ToolTip=Find References
+Command.ОткрытьОбъект.Title=Open object
+Command.ПоискДляОбъекта.Title=Search for an object
+Command.РедактироватьИсходныйОбъект.Title=Edit Source Object
+Command.РедактироватьОбъект.Title=Edit Property
+Item.РезультатПоискаНайденныеСсылки.FooterText=Links found\:
+Item.УникальныйИдентификаторИсточника.Title=Identifier

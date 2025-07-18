@@ -1,0 +1,9 @@
+#Translations for: interface
+
+Attribute.РежимВставки.Title=Insertion Mode
+Attribute.Ссылка.Title=Reference
+Command.ВставитьИзБуфераОбмена.Title=Paste from clipboard
+Command.ПерейтиПоСсылке.Title=Follow the link
+Command.СкопироватьВБуфер.Title=Copy to clipboard
+Item.ГруппаКоманднаяПанельСсылкиСправа.Title=Group1
+Item.КопированиеСсылки.Title=Group1

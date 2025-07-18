@@ -1,0 +1,24 @@
+#Translations for: interface
+
+Attribute.ВидыКонтейнера.Title=Types of containers
+Attribute.ВходящееЗначениеКонтейнер.Title=Input Value Container
+Attribute.Выражение.Title=Expression
+Attribute.ДеревоЗначения.Title=Value tree
+Attribute.ДеревоЗначения.ВидКонтейнера.Title=Container type
+Attribute.ДеревоЗначения.ЗаполненыПотомки.Title=Descendants are filled in
+Attribute.ДеревоЗначения.ЗначениеЕстьОшибка.Title=Meaning is an error
+Attribute.ДеревоЗначения.ЗначениеКонтейнер.Title=Meaning of container
+Attribute.ДеревоЗначения.ЗначениеОписаниеОшибки.Title=Value and description of the error
+Attribute.ДеревоЗначения.ЗначениеПредставление.Title=Significance of performance
+Attribute.ДеревоЗначения.ЗначениеТипЗначения.Title=Value Type
+Attribute.ДеревоЗначения.ЗначениеТипЗначенияПредставление.Title=Value, Value Type, View
+Attribute.ДеревоЗначения.Имя.Title=Name
+Attribute.ДеревоЗначения.ИмяОбъектаМетаданных.Title=Metadata object name
+Attribute.КонтекстКлиента.Title=Customer context
+Attribute.НаКлиенте.Title=On the client
+Command.ПоказатьВОтдельномОкне.Title=Show in a separate window
+Item.ГруппаВыражение.Title=Group1
+Item.ДеревоЗначенияЗначениеПредставление.Title=Meaning
+Item.ДеревоЗначенияЗначениеТипЗначенияПредставление.Title=Type
+Item.НаКлиенте.EditFormat=BL\=Server; BI\=Client
+Item.НаКлиенте.Title=Context

@@ -1,0 +1,7 @@
+#Translations for: interface
+
+Explanation=1C serialization library (processing)
+ExtendedPresentation=JSON Data Transformation
+Synonym=JSON Data Transformation [IA]
+Template.ВерсияБиблиотеки.Synonym=Library version
+Template.ОписаниеТипов.Synonym=Description of types (json)

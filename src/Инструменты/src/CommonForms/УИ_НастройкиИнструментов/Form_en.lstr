@@ -1,0 +1,33 @@
+#Translations for: interface
+
+Attribute.ВысотаСтрок.Title=Line Height
+Attribute.ИспользоватьКартуКода.Title=Use Code Map
+Attribute.ИспользоватьКомандыРаботыСБуферомВКонтекстномМеню.Title=Use buffer commands in the context menu
+Attribute.ИспользоватьСтандартныеШаблоныКода.Title=Use standard code templates
+Attribute.КаталогХраненияДанныхИнстументовНаСервере.Title=Server Tool Data Storage Directory
+Attribute.КаталогиИсходныхФайловКонфигурации.Title=Source configuration file directories
+Attribute.КаталогиИсходныхФайловКонфигурации.Источник.Title=Source
+Attribute.КаталогиИсходныхФайловКонфигурации.Каталог.Title=Catalog
+Attribute.ОтображатьПробелыИТабуляции.Title=Display spaces and tabs
+Attribute.РазмерШрифта.Title=Font size
+Attribute.РедакторКода1С.Title=1C Code Editor
+Attribute.СкрытьНомераСтрок.Title=Hide Line Numbers
+Attribute.ТемаРедактораMonaco.Title=Subject
+Attribute.ШаблоныКода.Title=Code Templates
+Attribute.ШаблоныКода.ИмяФайла.Title=Filename
+Attribute.ЯзыкСинтаксисаРедактораMonaco.Title=Syntax Language
+Command.Применить.Title=Apply
+Command.СохранитьМодулиКонфигурацииВФайлы.Title=Save configuration modules to files
+Item.ГруппаКонсольЗапросов.Title=Query console
+Item.ГруппаРедакторКода.Title=Code Editor
+Item.ГруппаРедакторКодаMonaco.Title=Monaco Code Editor Team
+Item.ГруппаРедакторКодаMonacoКаталогиИсходныхМодулей.Title=Source Module Catalogs
+Item.ГруппаРедакторКодаMonacoОсновныеНастройки.Title=Monaco Code Editor Group Basic Settings
+Item.ГруппаРедакторКодаMonacoШаблоныКода.Title=Code Templates
+Item.ГруппаСтраницаОбщиеНастройки.Title=General
+Item.ГруппаСтраницы.Title=Group1
+Item.ИспользоватьКартуКода.Title=Code Map
+Item.ИспользоватьСтандартныеШаблоныКода.ToolTip=Specify to add standard templates to the list of hints 
+Item.КаталогХраненияДанныхИнстументовНаСервере.ToolTip=This directory stores information such as debug data, auto-saved tool data, algorithms, etc.
+Item.КаталогиИсходныхФайловКонфигурации.Title=Source configuration file directories
+Item.КаталогиИсходныхФайловКонфигурации.ToolTip=You need to specify that the hints on the export methods of modules in the Monaco editor work

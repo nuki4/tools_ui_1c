@@ -74,10 +74,6 @@
             <key>ru</key>
             <value>Например: Номенклатура или REFERENCE106</value>
           </title>
-          <title>
-            <key>en</key>
-            <value>For example: Items or REFERENCE106</value>
-          </title>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -2473,10 +2469,6 @@
         <name>РезультатИмяТаблицыХранения</name>
         <id>29</id>
         <title>
-          <key>en</key>
-          <value>Storage table name</value>
-        </title>
-        <title>
           <key>ru</key>
           <value>Имя таблицы хранения</value>
         </title>
@@ -2532,10 +2524,6 @@
         <name>РезультатМетаданные</name>
         <id>23</id>
         <title>
-          <key>en</key>
-          <value>Metadata</value>
-        </title>
-        <title>
           <key>ru</key>
           <value>Метаданные</value>
         </title>
@@ -2590,10 +2578,6 @@
       <items xsi:type="form:FormField">
         <name>РезультатНазначение</name>
         <id>26</id>
-        <title>
-          <key>en</key>
-          <value>Purpose</value>
-        </title>
         <title>
           <key>ru</key>
           <value>Назначение</value>
@@ -3337,10 +3321,6 @@
           <name>Поля</name>
           <id>32</id>
           <title>
-            <key>en</key>
-            <value>Fields</value>
-          </title>
-          <title>
             <key>ru</key>
             <value>Поля</value>
           </title>
@@ -3717,10 +3697,6 @@
           <name>Индексы</name>
           <id>58</id>
           <title>
-            <key>en</key>
-            <value>Indexes</value>
-          </title>
-          <title>
             <key>ru</key>
             <value>Индексы</value>
           </title>
@@ -3964,10 +3940,6 @@
         <items xsi:type="form:Table">
           <name>ПоляИндексов</name>
           <id>45</id>
-          <title>
-            <key>en</key>
-            <value>Index fields</value>
-          </title>
           <title>
             <key>ru</key>
             <value>Поля индексов</value>
@@ -4490,10 +4462,6 @@
     <columns>
       <name>ИмяТаблицы</name>
       <title>
-        <key>en</key>
-        <value>Table name</value>
-      </title>
-      <title>
         <key>ru</key>
         <value>Имя таблицы</value>
       </title>
@@ -4511,10 +4479,6 @@
     </columns>
     <columns>
       <name>Метаданные</name>
-      <title>
-        <key>en</key>
-        <value>Metadata</value>
-      </title>
       <title>
         <key>ru</key>
         <value>Метаданные</value>
@@ -4569,10 +4533,6 @@
     </columns>
     <columns>
       <name>Поля</name>
-      <title>
-        <key>en</key>
-        <value>Поля</value>
-      </title>
       <id>5</id>
       <valueType>
         <types>ValueTable</types>
@@ -4586,10 +4546,6 @@
     </columns>
     <columns>
       <name>Индексы</name>
-      <title>
-        <key>en</key>
-        <value>Индексы</value>
-      </title>
       <id>6</id>
       <valueType>
         <types>ValueTable</types>
@@ -4747,10 +4703,6 @@
       <columns>
         <name>ИмяПоляХранения</name>
         <title>
-          <key>en</key>
-          <value>Storage field name</value>
-        </title>
-        <title>
           <key>ru</key>
           <value>Имя поля хранения</value>
         </title>
@@ -4769,10 +4721,6 @@
       <columns>
         <name>ИмяПоля</name>
         <title>
-          <key>en</key>
-          <value>Field name</value>
-        </title>
-        <title>
           <key>ru</key>
           <value>Имя поля</value>
         </title>
@@ -4790,10 +4738,6 @@
       </columns>
       <columns>
         <name>Метаданные</name>
-        <title>
-          <key>en</key>
-          <value>Metadata</value>
-        </title>
         <title>
           <key>ru</key>
           <value>Метаданные</value>
@@ -4818,10 +4762,6 @@
       <columns>
         <name>ИмяИндексаХранения</name>
         <title>
-          <key>en</key>
-          <value>Index name</value>
-        </title>
-        <title>
           <key>ru</key>
           <value>Имя индекса</value>
         </title>
@@ -4839,10 +4779,6 @@
       </columns>
       <columns>
         <name>ПоляИндекса</name>
-        <title>
-          <key>en</key>
-          <value>Поля индекса</value>
-        </title>
         <id>2</id>
         <valueType>
           <types>ValueTable</types>
@@ -4862,10 +4798,6 @@
       <columns>
         <name>ИмяПоляХранения</name>
         <title>
-          <key>en</key>
-          <value>Storage field name</value>
-        </title>
-        <title>
           <key>ru</key>
           <value>Имя поля хранения</value>
         </title>
@@ -4884,10 +4816,6 @@
       <columns>
         <name>ИмяПоля</name>
         <title>
-          <key>en</key>
-          <value>Field name</value>
-        </title>
-        <title>
           <key>ru</key>
           <value>Имя поля</value>
         </title>
@@ -4905,10 +4833,6 @@
       </columns>
       <columns>
         <name>Метаданные</name>
-        <title>
-          <key>en</key>
-          <value>Metadata</value>
-        </title>
         <title>
           <key>ru</key>
           <value>Метаданные</value>
@@ -4930,10 +4854,6 @@
   <attributes>
     <name>ИскатьВИменахПолей</name>
     <title>
-      <key>en</key>
-      <value>Including fields</value>
-    </title>
-    <title>
       <key>ru</key>
       <value>В именах полей</value>
     </title>
@@ -4953,10 +4873,6 @@
   </attributes>
   <attributes>
     <name>ТочноеСоответствие</name>
-    <title>
-      <key>en</key>
-      <value>Exact match</value>
-    </title>
     <title>
       <key>ru</key>
       <value>Точное соответствие</value>
@@ -5335,10 +5251,6 @@
   </attributes>
   <formCommands>
     <name>УстановитьОтбор</name>
-    <title>
-      <key>en</key>
-      <value>Set filter</value>
-    </title>
     <title>
       <key>ru</key>
       <value>Установить отбор</value>

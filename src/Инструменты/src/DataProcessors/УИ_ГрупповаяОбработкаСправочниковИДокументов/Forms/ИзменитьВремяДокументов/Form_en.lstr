@@ -1,0 +1,22 @@
+#Translations for: interface
+
+Attribute.ВведенноеВремя.Title=Time Entered
+Attribute.ВидИзмененияВремени.Title=Time Change Type
+Attribute.НайденныеОбъекты.Title=Found objects
+Attribute.ОбъектОбработки.Title=Object of processing
+Attribute.ОбъектПоиска.Title=Search Object
+Attribute.Родитель.Title=Parent
+Attribute.ТекущаяНастройка.Title=Current Setup
+Attribute.ТекущаяНастройкаПредставление.Title=Current view setup
+Attribute.ТекущаяСтрока.Title=Current Row
+Command.ВыполнитьКоманду.Title=Fulfill
+Command.ВыполнитьКоманду.ToolTip=Execute the command
+Command.СохранитьНастройки.Title=Save Settings
+Command.СохранитьНастройки.ToolTip=Save Settings
+Item.ВидИзмененияВремени.ChoiceList.0.Presentation=At the beginning of the day
+Item.ВидИзмененияВремени.ChoiceList.1.Presentation=At the end of the day
+Item.ВидИзмененияВремени.ChoiceList.2.Presentation=Enter manually
+Item.ГруппаКнопки.Title=Button group
+Item.ГруппаКнопки.ToolTip=Button group
+Item.ТекущаяНастройка.Title=Current Setup
+Title=Change document times

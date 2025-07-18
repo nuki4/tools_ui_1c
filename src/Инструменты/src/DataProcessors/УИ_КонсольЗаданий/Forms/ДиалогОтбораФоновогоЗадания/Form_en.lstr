@@ -1,0 +1,18 @@
+#Translations for: interface
+
+Attribute.Активно.Title=Actively
+Attribute.Завершено.Title=Completed
+Attribute.ЗавершеноАварийно.Title=Completed Emergency
+Attribute.Ключ.Title=The key
+Attribute.Конец.Title=The end
+Attribute.Метод.Title=Method
+Attribute.Наименование.Title=Name
+Attribute.Начало.Title=Beginning
+Attribute.Отменено.Title=Cancelled
+Attribute.Регламентное.Title=Routine
+Command.ОК.Title=OK
+Command.ОК.ToolTip=OK
+Item.Общие.Title=General
+Item.Общие.ToolTip=General
+Item.Состояние.Title=Condition
+Item.Состояние.ToolTip=Condition

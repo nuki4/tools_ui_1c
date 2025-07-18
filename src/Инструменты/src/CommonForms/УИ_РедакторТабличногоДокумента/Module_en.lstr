@@ -1,0 +1,13 @@
+#Translations for: interface
+
+Method.ИмяНовогоДокумента.NStr.Новый.Lines=New
+Method.НачатьДиалогСохраненияФайла.Var.ДиалогСохраненияФайла.NStr.Табличный\ документ.Lines=Tabular document
+Method.Перевести.NStr.Выполнить\ перевод.Lines=Translate
+Method.Перевести.NStr.Не\ выполнять.Lines=Do not execute
+Method.Перевести.Var.ТекстВопроса.NStr.Выполнить\ автоматический\ перевод\ на\ %1\ язык?.Lines=Automatically translate to %1 language?
+Method.ПередЗакрытием.Var.ТекстВопроса.NStr.Сохранить\ изменения\ в\ %1?.Lines=Save the changes to %1?
+Method.Подключаемый_ПриПереключенииЯзыка.NStr.Выполнить\ перевод.Lines=Translate
+Method.Подключаемый_ПриПереключенииЯзыка.NStr.Не\ выполнять.Lines=Do not execute
+Method.Подключаемый_ПриПереключенииЯзыка.Var.ТекстВопроса.NStr.Макет\ еще\ не\ переведен\ на\ %1\ язык\.\nВыполнить\ автоматический\ перевод?.Lines=The layout has not yet been translated into %1 language.\nPerform an automatic translation?
+Method.УстановитьЗаголовок.Var.Заголовок.NStr.создание.Lines=creation
+Method.УстановитьЗаголовок.Var.Заголовок.NStr.только\ просмотр.Lines=view only

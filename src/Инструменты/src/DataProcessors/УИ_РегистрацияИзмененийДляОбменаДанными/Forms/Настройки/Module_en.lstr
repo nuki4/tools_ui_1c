@@ -1,0 +1,5 @@
+#Translations for: interface
+
+Method.ОбработкаЗапросаПутьНачалоВыбора.Var.Диалог.NStr.Внешние\ обработки\ (*\.epf)|*\.epf.Lines=External Processing (*.epf)|*.epf
+Method.ПриСозданииНаСервере.Var.ТекЭлемент.NStr.В\ каталоге\:.Lines=In the catalog\:
+Method.СообщитьОбОшибке.Var.ЗаголовокОшибки.NStr.Ошибка.Lines=Error

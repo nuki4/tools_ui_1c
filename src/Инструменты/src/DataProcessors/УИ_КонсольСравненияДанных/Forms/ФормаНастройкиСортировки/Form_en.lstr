@@ -1,0 +1,10 @@
+#Translations for: interface
+
+Attribute.ПорядокСортировкиТаблицыРасхождений.Title=Sort order of the variance table
+Attribute.ТЗПорядокСортировкиТаблицыРасхождений.Title=Sort order of the variance table
+Attribute.ТЗПорядокСортировкиТаблицыРасхождений.ИмяСтолбца.Title=Column
+Attribute.ТЗПорядокСортировкиТаблицыРасхождений.ПорядокСортировки.Title=Sort order
+Command.КомандаНастройкаЗавершена.Title=Setup Complete
+Command.КомандаНастройкаЗавершена.ToolTip=The Setup command is complete
+Item.ТЗПорядокСортировкиТаблицыРасхожденийПорядокСортировки.ChoiceList.0.Presentation=Ascending
+Item.ТЗПорядокСортировкиТаблицыРасхожденийПорядокСортировки.ChoiceList.1.Presentation=Descending

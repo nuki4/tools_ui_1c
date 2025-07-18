@@ -1,0 +1,10 @@
+#Translations for: interface
+
+Attribute.ИмяМетода.Title=Method Name
+Attribute.Ключ.Title=The key
+Attribute.Наименование.Title=Name
+Command.ОК.Title=OK
+Command.ОК.ToolTip=OK
+Item.Описание.Title=Description
+Item.Описание.ToolTip=Description
+Title=Background Job

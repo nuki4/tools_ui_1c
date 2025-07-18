@@ -1,0 +1,7 @@
+#Translations for: interface
+
+Attribute.Автообновление.Title=Auto-Update
+Attribute.ПериодАвтообновления.Title=Auto-refresh period (seconds)
+Command.ОК.Title=OK
+Command.ОК.ToolTip=OK
+Title=Setting up a list

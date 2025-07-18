@@ -1,0 +1,28 @@
+#Translations for: interface
+
+Attribute.ВключитьВозможностьРедактированияИспользованияИтогов.Synonym=Enable the ability to edit the use of totals
+Attribute.ВыгружатьСДокументомЕгоДвижения.Synonym=Unload with a document of its movement
+Attribute.ДатаНачала.Synonym=Start Date
+Attribute.ДатаОкончания.Synonym=End Date
+Attribute.ДеревоМетаданных.Synonym=Metadata tree
+Attribute.ИмяФайлаВыгрузки.Synonym=Upload File Name
+Attribute.ИспользоватьОтборПоДатеДляВсехОбъектов.Synonym=Use date picking for all objects
+Attribute.ИспользоватьФорматFastInfoSet.Synonym=Use the FastInfoSet format
+Attribute.Компоновщик.Synonym=Linker
+Attribute.ОкноИсполненияОбработано.Synonym=Execution window processed
+Attribute.ОкноИсполненияОбщееКоличество.Synonym=Execution Window Total Quantity
+Attribute.ПодзаголовокОкнаИсполнения.Synonym=Runtime window subtitle
+Attribute.ПриЗагрузкеИспользоватьРежимОбменаДанными.Synonym=Use data exchange mode when booting
+Attribute.ПродолжитьЗагрузкуВСлучаеВозникновенияОшибки.Synonym=Continue downloading in case of error
+Attribute.РежимЗагрузкиПредопределенных.Synonym=Predefined Boot Mode
+Attribute.СохраненныеНастройки.Synonym=Saved settings
+Attribute.ТипВыгрузкиПериодическихРегистров.Synonym=Periodic ledger upload type
+Explanation=Transfer of information between homogeneous databases
+ExtendedPresentation=Uploading and Loading XML Data with Filters
+Form.ВыборИзЗапроса.Synonym=Selection from the query
+Form.НастройкиКонсолиЗапросов.Synonym=Query console settings
+Form.Форма.Synonym=Form
+Synonym=Uploading and Loading XML Data with Filters [TOU]
+TabularSection.ДополнительныеОбъектыДляВыгрузки.Attribute.ИмяОбъектаДляЗапроса.Synonym=The name of the object to be requested
+TabularSection.ДополнительныеОбъектыДляВыгрузки.Attribute.Объект.Synonym=Object
+TabularSection.ДополнительныеОбъектыДляВыгрузки.Synonym=Additional objects for unloading

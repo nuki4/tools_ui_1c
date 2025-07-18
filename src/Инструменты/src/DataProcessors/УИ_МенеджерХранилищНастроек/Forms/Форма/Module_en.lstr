@@ -1,0 +1,21 @@
+#Translations for: interface
+
+Method.ВопросСкопироватьНастройкиЗавершение.NStr.Копирование\ настроек\ выполнено.Lines=Copying settings is done
+Method.ОбновитьНастройкиВладельцаНаСервере.Var.СтрокаДереваКонфигурация.NStr.\ (Все\ настройки).Lines=(All settings)
+Method.ОбновитьНастройкиВладельцаНаСервере.Var.СтрокаДереваПрочее.NStr.Прочее.Lines=Other
+Method.ОбновитьОтображениеЭлементов.NStr.Показать\ всех.Lines=Show All
+Method.ОбновитьОтображениеЭлементов.NStr.Показать\ выбранные\ настройки.Lines=Show selected settings
+Method.ОбновитьОтображениеЭлементов.NStr.Показать\ выбранных.Lines=Show selected
+Method.ОбновитьОтображениеЭлементов.NStr.Скрыть\ выбранные\ настройки.Lines=Hide selected settings
+Method.ПриСозданииНаСервере.NStr.Хранилище\ настроек\ данных\ форм.Lines=Form Data Settings Storage
+Method.ПриСозданииНаСервере.NStr.Хранилище\ общих\ настроек.Lines=General Settings Repository
+Method.ПриСозданииНаСервере.NStr.Хранилище\ пользовательских\ настроек\ динамических\ списков.Lines=Storage of user settings for dynamic lists
+Method.ПриСозданииНаСервере.NStr.Хранилище\ пользовательских\ настроек\ отчетов.Lines=Custom Report Settings Repository
+Method.ПриСозданииНаСервере.NStr.Хранилище\ системных\ настроек.Lines=System Settings Storage
+Method.СкопироватьВыбранныеНастройки.NStr.Внимание\!.Lines=Attention\!
+Method.СкопироватьВыбранныеНастройки.NStr.Не\ выбраны\ настройки\ для\ копирования.Lines=No settings selected for copying
+Method.СкопироватьВыбранныеНастройки.NStr.Не\ указаны\ пользователи\ (кому\ копировать).Lines=No users specified (to whom to copy)
+Method.СкопироватьВыбранныеНастройки.NStr.Скопировать\ выбранные\ настройки\ выбранным\ пользователям?.Lines=Copy the selected settings to the selected users?
+Method.УдалитьВыбранныеНастройки.NStr.Внимание\!.Lines=Attention\!
+Method.УдалитьВыбранныеНастройки.NStr.Не\ выбраны\ настройки\ для\ удаления.Lines=Settings not selected to delete
+Method.УдалитьВыбранныеНастройки.NStr.Удалить\ выбранные\ настройки\ у\ пользователя\ %1?.Lines=Delete selected settings for user %1?

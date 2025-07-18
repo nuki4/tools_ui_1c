@@ -1,0 +1,6 @@
+#Translations for: interface
+
+Explanation=Processing for convenient work with files between the client and the server. Transfer, view, delete. Currently contains synchronous calls
+ExtendedPresentation=File manager
+Form.Форма.Synonym=Form
+Synonym=File Manager [TOU]

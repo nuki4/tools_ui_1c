@@ -1,0 +1,12 @@
+#Translations for: interface
+
+Command.ПрименитьНастройки.Title=Apply Settings
+Command.ПрименитьНастройки.ToolTip=Apply Settings
+Item.КомпоновщикНастроекПользовательскиеНастройки.Title=User Settings
+Item.ОбычныеНастройки.Title=Ordinary
+Item.ОбычныеНастройки.ToolTip=Normal Settings
+Item.ПользовательскиеНастройки.Title=Custom
+Item.ПользовательскиеНастройки.ToolTip=User Settings
+Item.Страницы.ToolTip=Page
+Item.ФиксированныеНастройки.Title=Fixed
+Item.ФиксированныеНастройки.ToolTip=Fixed settings

@@ -1,0 +1,8 @@
+#Translations for: interface
+
+Attribute._ДанныеДляОтображения.Title=Data to display
+Attribute._ДеревоЗначений.Title=Value tree
+Attribute._ТаблицаЗначений.Title=Table of values
+Command.ОткрытьОбъект.Title=Open the object...
+Command.ОткрытьОбъект.ToolTip=Open the current object in special. Form
+Title=HZ data

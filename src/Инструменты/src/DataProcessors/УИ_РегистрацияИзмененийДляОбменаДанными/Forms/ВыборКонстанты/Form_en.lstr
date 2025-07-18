@@ -1,0 +1,16 @@
+#Translations for: interface
+
+Attribute.СписокКонстант.Title=List of constants
+Attribute.СписокКонстант.ИндексКартинки.Title=Image Index
+Attribute.СписокКонстант.ИндексКартинкиАвторегистрация.Title=
+Attribute.СписокКонстант.МетаПолноеИмя.Title=Meta full name
+Attribute.СписокКонстант.Наименование.Title=Name
+Command.ВыбратьКонстанту.Title=Choose
+Command.ВыбратьКонстанту.ToolTip=Choose a constant
+Item.Группа1.Title=Legend
+Item.Декорация1.Title=Auto-registration picture
+Item.ДекорацияАвторегистрация.Title=Auto-registration for a node
+Item.СписокКонстантИндексКартинкиАвторегистрация.Title=Auto-registration
+Item.СписокКонстантКонтекстноеМенюВыбратьКонстанту.Title=Choose
+Item.СписокКонстантНаименование.Title=Constant
+Title=Choosing a constant

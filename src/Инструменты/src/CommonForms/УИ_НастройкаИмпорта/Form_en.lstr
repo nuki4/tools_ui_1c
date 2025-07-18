@@ -1,0 +1,19 @@
+#Translations for: interface
+
+Attribute.ИдентификаторФормы.Title=Form ID
+Attribute.ИмяФайла.Title=Filename
+Attribute.ОчиститьДанныеИнструментаПередЗаполнением.Title=Clear tool data before filling
+Attribute.ПрочитатьФайлВоВременноеХранилище.Title=Read the file in temporary storage
+Attribute.Текст.Title=Text
+Attribute.Формат.Title=Format
+Attribute.ФорматыИмпорта.Title=Import formats
+Attribute.ФорматыИмпорта.ВариантСодержимого.Title=Content Variant
+Attribute.ФорматыИмпорта.Идентификатор.Title=Identifier
+Attribute.ФорматыИмпорта.Представление.Title=Presentation
+Attribute.ФорматыИмпорта.ФильтрФайловДляДиалога.Title=Filter Files for Dialog
+Command.Загрузить.Title=Download
+Item.ГруппаСтраницаВыборФайла.Title=Group1
+Item.ГруппаСтраницаНеВыбранФормат.Title=Group1
+Item.ГруппаСтраницаТекст.Title=Group1
+Item.ГруппаСтраницы.Title=Group1
+Item.ДекорацияВыберитеФормат.Title=<fontsize 16><b>Select the format</></>

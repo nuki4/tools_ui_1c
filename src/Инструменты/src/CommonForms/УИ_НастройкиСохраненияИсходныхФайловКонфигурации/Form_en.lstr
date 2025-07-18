@@ -1,0 +1,30 @@
+#Translations for: interface
+
+Attribute.ИмяБазы.Title=Database Name
+Attribute.КаталогИнформационнойБазы.Title=Catalog of the information base
+Attribute.КаталогиСохранения.Title=Save Directories
+Attribute.КаталогиСохранения.Источник.Title=Source
+Attribute.КаталогиСохранения.Каталог.Title=Catalog
+Attribute.КаталогиСохранения.Пометка.Title=Mark
+Attribute.КаталогиСохранения.ТолькоМодули.Title=Modules only
+Attribute.ОбщийКаталогСохранения.Title=General Save Catalog
+Attribute.Пароль.Title=Password
+Attribute.Пользователь.Title=User
+Attribute.РасположениеБазы.Title=Base Location
+Attribute.СерверИБ.Title=Information Security Server
+Attribute.ФайлЗапускаПлатформы.Title=Platform Startup File
+Command.ВыбратьОбщийКаталогСохранения.Title=Select a shared save directory
+Command.ВыгрузитьИсходныеМодули.Title=Unload Source Modules
+Command.СнятьПометки.Title=Unmark
+Command.УстановитьПометки.Title=Set Markups
+Item.ГруппаАдресБазы.Title=Group Base Address
+Item.ГруппаБазаСерверная.Title=Server Base Group
+Item.ГруппаБазаФайловая.Title=File Base Group
+Item.ГруппаПользователь.Title=User
+Item.ГруппаПользовательПароль.Title=Group, user, password
+Item.ГруппаСтраницыРаположенияБазы.Title=Database location page group
+Item.КаталогиСохраненияТолькоМодули.ToolTip=If set, only objects with modules will be unloaded. If not installed, the entire configuration will be unloaded
+Item.КаталогиСохраненияТолькоМодулиРасширеннаяПодсказка.Title=If set, only objects with modules will be unloaded. If not installed, the entire configuration will be unloaded
+Item.РасположениеБазы.ChoiceList.0.Presentation=On a local computer or on a computer on a local network
+Item.РасположениеБазы.ChoiceList.1.Presentation=On the 1C\:Enterprise server
+Item.СерверИБ.Title=Server cluster

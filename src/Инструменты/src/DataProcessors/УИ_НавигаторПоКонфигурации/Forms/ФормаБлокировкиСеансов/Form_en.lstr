@@ -1,0 +1,15 @@
+#Translations for: interface
+
+Attribute.КодРазрешения.Title=Permission code
+Attribute.Конец.Title=The end
+Attribute.Начало.Title=Beginning
+Attribute.Сообщение.Title=Message
+Attribute.Установлена.Title=Have
+Command.кУстановитьБлокировкуСеансов.Title=Set Session Blocking
+Command.кУстановитьБлокировкуСеансов.ToolTip=Set Session Blocking
+Item.КодРазрешения.ToolTip=used when starting with the /UC switch
+Item.Конец.EditFormat=DF \= 'dd.MM.yyyy HH\:mm\:ss'
+Item.Начало.EditFormat=DF \= 'dd.MM.yyyy HH\:mm\:ss'
+Item.ПараметрыБлокировки.Title=Lock Options
+Item.ПараметрыБлокировки.ToolTip=Lock Options
+Title=Blocking user sessions

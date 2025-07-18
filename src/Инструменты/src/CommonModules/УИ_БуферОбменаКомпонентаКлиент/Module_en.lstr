@@ -1,0 +1,5 @@
+#Translations for: interface
+
+Method.КомпонентаРаботыСБуферомОбмена.Var.ТекстОшибки.NStr.Не\ удалось\ подключить\ внешнюю\ компоненту\ для\ работы\ с\ буфером\ обмена\.\ Подробности\ в\ журнале\ регистрации\..Lines=Could not connect an external component to work with the clipboard. Details in the logbook.
+Method.СравнитьВерсииБезНомераСборки.NStr.Неправильный\ формат\ параметра\ СтрокаВерсии1\:\ %1.Lines=Incorrect format for VersionString1\: %1
+Method.СравнитьВерсииБезНомераСборки.NStr.Неправильный\ формат\ параметра\ СтрокаВерсии2\:\ %1.Lines=Incorrect format for VersionString2\: %1

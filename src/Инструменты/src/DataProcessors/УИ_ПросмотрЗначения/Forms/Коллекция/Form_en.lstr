@@ -1,0 +1,21 @@
+#Translations for: interface
+
+Attribute.ВозможенДоступКЭлементуКоллекцииПоИндексу.Title=A collection item can be accessed by index
+Attribute.ВходящееЗначениеКонтейнер.Title=Input Value Container
+Attribute.Выражение.Title=Expression
+Attribute.ИменаСвойствКоллекции.Title=Collection property names
+Attribute.КоличествоЭлементов.Title=Number of elements
+Attribute.КонтекстКлиента.Title=Customer context
+Attribute.ПредставлениеТипа.Title=Type representation
+Attribute.ТаблицаКоллекции.Title=Collection Table
+Attribute.ТаблицаКоллекции.ВидКонтейнера.Title=Container type
+Attribute.ТаблицаКоллекции.ЗначениеЕстьОшибка.Title=Meaning is an error
+Attribute.ТаблицаКоллекции.ЗначениеКонтейнер.Title=Meaning of container
+Attribute.ТаблицаКоллекции.ЗначениеОписаниеОшибки.Title=Value and description of the error
+Attribute.ТаблицаКоллекции.ЗначениеПредставление.Title=Meaning
+Attribute.ТаблицаКоллекции.ЗначениеТипЗначения.Title=Value Type
+Attribute.ТаблицаКоллекции.ЗначениеТипЗначенияПредставление.Title=Item Type
+Attribute.ТаблицаКоллекции.ИмяОбъектаМетаданных.Title=Metadata object name
+Attribute.ТаблицаКоллекции.Индекс.Title=Index
+Command.ПоказатьВОтдельномОкне.Title=Show in a separate window
+Item.ГруппаШапкаТаблицы.Title=Group1

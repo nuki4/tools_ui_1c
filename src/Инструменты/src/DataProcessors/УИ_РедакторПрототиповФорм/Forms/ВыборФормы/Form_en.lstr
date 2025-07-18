@@ -1,0 +1,17 @@
+#Translations for: interface
+
+Attribute.ИсточникФорм.Title=Form Source
+Attribute.ОткрытыеФормы.Title=Open Forms
+Attribute.ОткрытыеФормы.Заголовок.Title=Heading
+Attribute.ОткрытыеФормы.ИдентификаторФормы.Title=Form ID
+Attribute.ФормыКонфигурации.Title=Configuration forms
+Attribute.ФормыКонфигурации.Имя.Title=Name
+Attribute.ФормыКонфигурации.Представление.Title=Presentation
+Attribute.ФормыКонфигурации.Путь.Title=Path
+Attribute.ФормыКонфигурации.ЭтоФорма.Title=This is the form of
+Command.Отменить.Title=Cancel
+Command.Применить.Title=Apply
+Item.ГруппаКоманды.Title=Team Group
+Item.ИсточникиФорм.Title=Form Sources
+Item.ФормыИзКонфигуратора.Title=From the configuration
+Item.ФормыИзПредприятия.Title=Open

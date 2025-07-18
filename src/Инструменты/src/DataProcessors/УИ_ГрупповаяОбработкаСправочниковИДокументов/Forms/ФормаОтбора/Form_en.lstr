@@ -1,0 +1,30 @@
+#Translations for: interface
+
+Attribute.АдресСхемы.Title=Map address
+Attribute.ОтборДанных.Title=Data Selection
+Attribute.ПараметрыЗапроса.Title=Query parameters
+Attribute.ПараметрыЗапроса.ЗначениеПараметра.Title=Meaning
+Attribute.ПараметрыЗапроса.ИмяПараметра.Title=Parameter
+Attribute.ПараметрыЗапроса.ЭтоВыражение.Title=This expression
+Attribute.РежимПоиска.Title=Search Mode
+Attribute.СписокПредставлений.Title=List of views
+Attribute.СтрокаПоиска.Title=Search bar
+Attribute.ТекстЗапроса.Title=Request body
+Attribute.ТекстПроизвольногоЗапроса.Title=Text of an arbitrary query
+Command.КонструкторЗапроса.Title=Query constructor
+Command.КонструкторЗапроса.ToolTip=Query constructor
+Command.ОбновитьПараметры.Title=Update Settings
+Command.ОбновитьПараметры.ToolTip=Update Settings
+Command.ПолучитьОтбор.Title=Apply
+Command.ПолучитьОтбор.ToolTip=Get Selected
+Item.ГруппаКнопки.Title=Button group
+Item.ГруппаКнопки.ToolTip=Button group
+Item.ГруппаСтраницы.Title=Page Group
+Item.ГруппаСтраницы.ToolTip=Page Group
+Item.ОтборПоЗначениямРеквизитов.Title=Selection by requisite values
+Item.ОтборПоЗначениямРеквизитов.ToolTip=Selection by requisite values
+Item.ПараметрыЗапросаОбновитьПараметры.Title=Refresh
+Item.ПроизвольныйЗапрос.Title=Query
+Item.ПроизвольныйЗапрос.ToolTip=Custom query
+Item.РежимПоиска.Title=Selection mode
+Title=Set up picking

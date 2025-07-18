@@ -1,0 +1,5 @@
+#Translations for: interface
+
+Method.ОткрытьНавигационнуюСсылку.Var.ОписаниеОшибки.NStr.Не\ удалось\ перейти\ по\ ссылке\ "%1"\ по\ причине\:\ \nНеверно\ задана\ навигационная\ ссылка\..Lines=The link "%1" could not be clicked for the following reasons\: \nThe navigation link is incorrect.
+Method.ПоказатьПодробнуюИнформацию.NStr.Закрыть.Lines=Close
+Method.ПоказатьПодробнуюИнформацию.Var.НастройкиДиалога.NStr.Подробнее.Lines=Learn more

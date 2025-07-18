@@ -1,0 +1,40 @@
+#Translations for: interface
+
+Attribute.АдресХранилища.Title=Storage Address
+Attribute.ВнешнийФайл.Title=External File
+Attribute.ВыбраныйТип.Title=Selected Type
+Attribute.ДоступныеТипы.Title=Available Types
+Attribute.НаименованиеПараметра.Title=Parameter name
+Attribute.ОписаниеТипа.Title=Type description
+Attribute.ОпределяемыйТип.Title=Type to be determined
+Attribute.ПараметрКоллекция.Title=Collection Parameter
+Attribute.ТипКоллекция.Title=Type Collection
+Command.ДобавитьКолонку.Title=Add a column
+Command.ДобавитьКолонку.ToolTip=Add a column
+Command.ЗаписатьИЗакрыть.Title=Record and close
+Command.ЗаписатьИЗакрыть.ToolTip=Record and close
+Command.УдалитьКолонку.Title=Delete column
+Command.УдалитьКолонку.ToolTip=Delete column
+Command.УстановитьНаименованиеПараметра.Title=Install
+Command.УстановитьНаименованиеПараметра.ToolTip=Set the name of the parameter
+Item.ВыбраныйТип.ChoiceList.0.Presentation=Available Types
+Item.ВыбраныйТип.ChoiceList.1.Presentation=External File
+Item.ВыбраныйТип.ChoiceList.2.Presentation=Collection of Values
+Item.ВыбраныйТип.ChoiceList.3.Presentation=Set programmatically
+Item.ГруппаКоллекция.Title=Group Collection
+Item.ГруппаКоллекция.ToolTip=Group Collection
+Item.ГруппаКоллекция1.Title=Group Collection1
+Item.ГруппаКоллекция1.ToolTip=Group Collection1
+Item.ГруппаНаименованиеПараметра.Title=Enter a name for the new parameter (standard requirements for attribute names)
+Item.ГруппаНаименованиеПараметра.ToolTip=Parameter Name Group
+Item.ГруппаОпределяемыйТип.Title=Defined Type Group
+Item.ГруппаОпределяемыйТип.ToolTip=Defined Type Group
+Item.НаименованиеПараметра.Title=New parameter name
+Item.ОпределяемыйТип.Title=Example Description - Result \= New ValueTable....
+Item.ТипКоллекция.ChoiceList.0.Presentation=Array
+Item.ТипКоллекция.ChoiceList.1.Presentation=Structure
+Item.ТипКоллекция.ChoiceList.2.Presentation=Correspondence
+Item.ТипКоллекция.ChoiceList.3.Presentation=Table of values
+Item.ТипКоллекция.Title=Collection
+Item.грДоступныеТипы.Title=Gr Available Types
+Item.грДоступныеТипы.ToolTip=Gr Available Types

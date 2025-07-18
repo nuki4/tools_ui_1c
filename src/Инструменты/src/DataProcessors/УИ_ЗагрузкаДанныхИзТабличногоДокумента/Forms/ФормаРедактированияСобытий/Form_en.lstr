@@ -1,0 +1,25 @@
+#Translations for: interface
+
+Attribute.НадписьТекстВыражения.Title=Text Expression Text
+Attribute.ПередЗаписьюОбъекта.Title=Before recording an object
+Attribute.ПолеПередЗаписьюОбъекта.Title=Before recording an object
+Attribute.ПолеПослеДобавленияСтроки.Title=After adding a row
+Attribute.ПолеПриЗаписиОбъекта.Title=When recording an object
+Attribute.ПослеДобавленияСтроки.Title=After adding a row
+Attribute.ПриЗаписиОбъекта.Title=When recording an object
+Attribute.РежимЗагрузки.Title=Download Mode
+Attribute.ТипОбъекта.Title=Object type
+Command.ОК.Title=OK
+Command.ОК.ToolTip=OK
+Item.ГруппаПанель.Title=Group panel
+Item.ГруппаПанель.ToolTip=Group panel
+Item.ГруппаПанельКоманд.Title=Group command bar
+Item.ГруппаПанельКоманд.ToolTip=Group command bar
+Item.ГруппаПередЗаписьюОбъекта.Title=Before recording an object
+Item.ГруппаПередЗаписьюОбъекта.ToolTip=Group before recording an object
+Item.ГруппаПослеДобавленияСтроки.Title=After adding a row
+Item.ГруппаПослеДобавленияСтроки.ToolTip=Group after adding a row
+Item.ГруппаПриЗаписиОбъекта.Title=When recording an object
+Item.ГруппаПриЗаписиОбъекта.ToolTip=Group when recording an object
+Item.Закрыть.Title=Cancel
+Title=Expression Editing Form

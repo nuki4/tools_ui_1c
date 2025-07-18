@@ -1,0 +1,11 @@
+#Translations for: interface
+
+Attribute.ИскатьПо.Title=Search by
+Attribute.ИспользоватьВладельца.Title=Use Owner
+Attribute.ИспользуемыеТипы.Title=Types used
+Attribute.СвязьПоВладельцу.Title=Communication by owner
+Command.ОК.Title=OK
+Command.ОК.ToolTip=OK
+Item.ГруппаКоманд.Title=Group of teams
+Item.ГруппаКоманд.ToolTip=Group of teams
+Title=Edit a search relationship

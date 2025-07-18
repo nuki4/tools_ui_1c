@@ -1,0 +1,20 @@
+#Translations for: interface
+
+Attribute.СписокЭлементов.Title=Item List
+Attribute.ТипКонтейнера.Title=Container Type
+Command.КомандаЗаполнитьИзБуфера.Title=From the clipboard
+Command.КомандаЗаполнитьИзСтрокиВнутр.Title=From the line inside
+Command.КомандаЗаполнитьИзФайлов.Title=From files on disk
+Command.КомандаОК.Title=OK Team
+Command.КомандаОК.ToolTip=OK Team
+Command.КомандаОткрытьСправку.Title=Help
+Command.КомандаОчистить.Title=Purify
+Command.КомандаОчистить.ToolTip=Clean Up Command
+Command.КомандаПередатьВБуферОбмена.Title=To clipboard
+Command.КомандаПередатьВСтрокуXML.Title=To an XML file
+Item.ГруппаКоманднаяПанельНижняя.Title=Group Command Bar Bottom
+Item.ГруппаКоманднаяПанельНижняя.ToolTip=Group Command Bar Bottom
+Item.КнопкаОК.Title=OK
+Item.КомандаОтмена.Title=Cancel
+Item.СписокЭлементовГруппаЗаполнить.Title=Fill
+Item.СписокЭлементовГруппаПередать.Title=Save

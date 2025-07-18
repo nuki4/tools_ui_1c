@@ -1,0 +1,14 @@
+#Translations for: interface
+
+Attribute.СуффиксРеквизитаКонтейнера.Title=Container prop suffix
+Attribute.ТаблицаЗначений.Title=Table of values
+Attribute.ТаблицаЗначенийКолонкиКонтейнера.Title=Container Column Value Table
+Attribute.ТаблицаЗначенийСоответствиеКолонок.Title=Column Mapping Value Table
+Command.КомандаОК.Title=OK Team
+Command.КомандаОК.ToolTip=OK Team
+Command.КомандаОчистить.Title=Purify
+Command.КомандаОчистить.ToolTip=Clean Up Command
+Item.ГруппаКоманднаяПанельНижняя.Title=Group Command Bar Bottom
+Item.ГруппаКоманднаяПанельНижняя.ToolTip=Group Command Bar Bottom
+Item.КнопкаОК.Title=OK
+Item.КомандаОтмена.Title=Cancel

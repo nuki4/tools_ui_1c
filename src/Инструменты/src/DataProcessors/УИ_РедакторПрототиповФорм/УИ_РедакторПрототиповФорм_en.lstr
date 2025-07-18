@@ -1,0 +1,19 @@
+#Translations for: interface
+
+Form.ВводСпискаЗначений.Synonym=Entering a list of values
+Form.ВводСтроки.Synonym=Enter a string
+Form.ВводЧисла.Synonym=Entering a Number
+Form.ВыборКартинки.Synonym=Choosing a picture
+Form.ВыборФормы.Synonym=Choosing a shape
+Form.ДанныеВыбораСвойства.Synonym=Property selection data
+Form.МенеджерНаборовЗначений.Synonym=Value Set Manager
+Form.МенеджерПрототипов.Synonym=Prototype Manager
+Form.МенеджерФайлов_8_3_15.Synonym=File Manager 8.3.15
+Form.МенеджерФайлов_8_3_6.Synonym=File Manager 8.3.6
+Form.Основная.Synonym=Main
+Form.Прототип.Synonym=Prototype
+Synonym=Form Prototype Editor [TOU]
+Template.Свойства.Synonym=Properties
+Template.СвойстваФормИЭлементовУправления.Synonym=Form and control properties
+Template.СвойстваФормИЭлементовУправленияЭлементы.Synonym=Form and Controls Properties
+Template.ФормыИЭлементыУправления.Synonym=Forms and Controls

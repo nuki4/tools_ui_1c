@@ -1,0 +1,17 @@
+#Translations for: interface
+
+Attribute.Ссылка.Title=Reference
+Attribute.СтрокаУникальныйИдентификатор.Title=Unique identifier
+Command.КомандаНайти.Title=Find command
+Command.КомандаНайти.ToolTip=Find command
+Command.КомандаОК.Title=OK Team
+Command.КомандаОК.ToolTip=OK Team
+Command.Сгенерировать.Title=Generate
+Item.ГруппаИДИСсылка.Title=IDIS Group
+Item.ГруппаИДИСсылка.ToolTip=IDIS Group
+Item.ГруппаОсновная.Title=Main group
+Item.ГруппаОсновная.ToolTip=Main group
+Item.ГруппаУникальныйИдентификатор.Title=Group unique identifier
+Item.ГруппаУникальныйИдентификатор.ToolTip=Group unique identifier
+Item.КомандаОК.Title=Apply
+Title=Unique identifier

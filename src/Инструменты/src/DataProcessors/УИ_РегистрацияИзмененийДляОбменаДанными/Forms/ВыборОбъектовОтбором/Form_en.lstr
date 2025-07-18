@@ -1,0 +1,21 @@
+#Translations for: interface
+
+Attribute.КлючФормыДанных.Title=Data Form Key
+Attribute.СписокДанных.Title=List of data
+Attribute.СтруктураДанных.Title=Data structure
+Command.ВыбратьОтобранныеЗначения.Title=Choose
+Command.ВыбратьОтобранныеЗначения.ToolTip=Select selected values
+Command.ВыбратьТекущуюСтроку.Title=Choose
+Command.ВыбратьТекущуюСтроку.ToolTip=Select Current Row
+Command.ОткрытьТекущийОбъект.Title=Open
+Command.ОткрытьТекущийОбъект.ToolTip=Open Current Object
+Item.Группа1.Title=Elements of selection
+Item.ОтборГруппа1.Title=Selection Actions
+Item.ОтборГруппа2.Title=Form Actions
+Item.СписокДанныхВыбратьОтобранныеЗначения.Title=Select All
+Item.СписокДанныхВыбратьТекущуюСтроку.Title=Choose
+Item.СписокДанныхЗакрыть.Title=Close
+Item.СписокДанныхКонтекстноеМенюВыбратьОтобранныеЗначения.Title=Select all selected
+Item.СписокДанныхКонтекстноеМенюВыбратьТекущуюСтроку.Title=Select current data
+Item.СписокДанныхКонтекстноеМенюОткрытьТекущийОбъект.Title=Open the Current Object Form
+Title=Selection of objects by selection

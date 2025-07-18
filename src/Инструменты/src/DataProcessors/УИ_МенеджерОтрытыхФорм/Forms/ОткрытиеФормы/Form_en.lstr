@@ -1,0 +1,20 @@
+#Translations for: interface
+
+Attribute.ВспомогательныеЗначения.Title=Auxiliary values
+Attribute.ДоступныеФормы.Title=Available Forms
+Attribute.ДоступныеФормы.Имя.Title=Name
+Attribute.ДоступныеФормы.Картинка.Title=Picture
+Attribute.ДоступныеФормы.Комментарий.Title=Comment
+Attribute.ДоступныеФормы.НавигационнаяСсылка.Title=Navigation link
+Attribute.ДоступныеФормы.ПолноеИмя.Title=Full name
+Attribute.ДоступныеФормы.Синоним.Title=Synonym
+Attribute.ДоступныеФормы.ЭтоФорма.Title=This is the form of
+Command.ОткрытьВыбраннуюФорму.Title=Open 
+Command.ОткрытьВыбраннуюФорму.ToolTip=Open the selected form
+Item.ГруппаВерх.Title=Top Group
+Item.ГруппаВерх.ToolTip=Top Group
+Item.ГруппаЛево.Title=Left Group
+Item.ГруппаЛево.ToolTip=Left Group
+Item.ГруппаПраво.Title=Group Law
+Item.ГруппаПраво.ToolTip=Group Law
+Title=Available Forms

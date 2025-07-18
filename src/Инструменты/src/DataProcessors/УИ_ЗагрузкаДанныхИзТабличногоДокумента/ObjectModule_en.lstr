@@ -1,0 +1,5 @@
+#Translations for: interface
+
+Method.СведенияОВнешнейОбработке.NStr.Загрузка\ данных\ из\ табличного\ документа.Lines=Loading data from a tabular document
+Method.СведенияОВнешнейОбработке.NStr.Загрузка\ из\ табличного\ документа.Lines=Loading from a tabular document
+Method.СведенияОВнешнейОбработке.NStr.Обработка\ используется\ для\ загрузки\ данных\ в\ справочники,\ табличные\ части\ документов\ и\ справочников,\ а\ также\ в\ регистры\ сведений\ из\ табличного\ документа\ в\ формате\ Excel,\ MXL,\ DBF,\ txt\..Lines=Processing is used to load data into directories, tabular parts of documents and directories, as well as into registers of information from a tabular document in Excel, MXL, DBF, txt formats.

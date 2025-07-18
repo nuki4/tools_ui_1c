@@ -1,0 +1,34 @@
+#Translations for: interface
+
+Attribute.ИнтервалПовтораПриАварийномЗавершении.Title=Retry interval on crash (seconds)
+Attribute.Использование.Title=Use
+Attribute.Ключ.Title=The key
+Attribute.КоличествоПовторовПриАварийномЗавершении.Title=Number of retries on crash
+Attribute.МетаданныеВыбор.Title=Metadata
+Attribute.Метод.Title=Method
+Attribute.Наименование.Title=Name
+Attribute.ОбработкаОбъект.Title=Processing Object
+Attribute.ПараметрыЗадания.Title=Job Settings
+Attribute.ПараметрыЗадания.Доп.Title=Additional
+Attribute.ПараметрыЗадания.Значение.Title=Meaning
+Attribute.ПараметрыЗадания.НомерСтроки.Title=№
+Attribute.ПараметрыЗадания.Тип.Title=Type
+Attribute.ПользователиВыбор.Title=User
+Attribute.РегламентноеЗаданиеИД.Title=Administrative task of the ID
+Attribute.ТаблицаМетаданных.Title=Metadata table
+Attribute.ТаблицаМетаданных.Имя.Title=Name
+Attribute.ТаблицаМетаданных.Метод.Title=Method
+Attribute.ТаблицаМетаданных.Представление.Title=Presentation
+Command.ОК.Title=OK
+Command.ОК.ToolTip=OK
+Item.ГруппаКолонок.Title=Column Group
+Item.ГруппаКолонок.ToolTip=Column Group
+Item.ИзменитьРасписание.Title=Change schedule
+Item.КолонкаЛевая.Title=Column left
+Item.КолонкаЛевая.ToolTip=Column left
+Item.КолонкаПравая.Title=Column Right
+Item.КолонкаПравая.ToolTip=Column Right
+Item.НадписьРасписание.Title=Inscription schedule
+Item.Перезапуск.Title=Restart
+Item.Перезапуск.ToolTip=Restart
+Title=Regulatory task

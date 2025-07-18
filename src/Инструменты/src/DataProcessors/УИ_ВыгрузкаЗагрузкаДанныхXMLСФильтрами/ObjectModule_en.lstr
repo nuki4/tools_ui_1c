@@ -1,0 +1,27 @@
+#Translations for: interface
+
+Method.XMLТипСсылки.Var.ТекстИсключения.NStr.Ошибка\ при\ определении\ XMLТипа\ ссылки\ для\ объекта\ %1\:\ объект\ не\ является\ ссылочным\!.Lines=XML Detection ErrorObject Reference Type %1\: Object Is Not Referential\!
+Method.ВыгрузкаДанных.NStr.Выгрузка\ данных\.\ Внутренняя\ ошибка.Lines=Uploading data. Internal error
+Method.ВыполнитьВыгрузку.NStr.Выгрузка\ данных\ успешно\ завершена.Lines=Data upload completed successfully
+Method.ВыполнитьВыгрузку.NStr.Не\ задан\ состав\ выгрузки.Lines=Unloading composition is not specified
+Method.ВыполнитьВыгрузку.Var.ШаблонВыгружено.NStr.Выгружено\ объектов\:\ %Выгружено.Lines=Objects unloaded\: %Unloaded
+Method.ВыполнитьВыгрузку.Var.ШаблонНачалоВыгрузки.NStr.Начало\ выгрузки\:\ %Дата.Lines=Upload Start\: %Date
+Method.ВыполнитьВыгрузку.Var.ШаблонНачалоПроверки.NStr.Начало\ проверки\:\ %Дата.Lines=Verification Start\: %Date
+Method.ВыполнитьВыгрузку.Var.ШаблонОкончание.NStr.Окончание\ выгрузки\:\ %Дата.Lines=End of upload\: %Date
+Method.ВыполнитьВыгрузку.Var.ШаблонОкончание.NStr.Окончание\ проверки\:\ %Дата.Lines=Verification End\: %Date
+Method.ВыполнитьВыгрузку.Var.ШаблонПроверено.NStr.Проверено\ объектов\:\ %Проверено.Lines=Objects Checked\: %Checked
+Method.ВыполнитьЗагрузку.NStr.Загрузка\ данных\ успешно\ завершена.Lines=Data upload completed successfully
+Method.ВыполнитьЗагрузку.NStr.Неверный\ формат\ файла\ выгрузки.Lines=Invalid upload file format
+Method.ВыполнитьЗагрузку.Var.ТекстСообщения.NStr.При\ загрузке\ данных\ возникла\ ошибка\:\n%1.Lines=An error occurred while loading data\:\n%1
+Method.ВыполнитьЗагрузку.Var.ТекстСообщения.NStr.При\ загрузке\ объекта\ %1(%2)\ возникла\ ошибка\:\n%3.Lines=An error occurred when loading object %1(%2)\:\n%3
+Method.ВыполнитьЗагрузку.Var.ШаблонЗагружено.NStr.Загружено\ объектов\:\ %Количество.Lines=Objects uploaded\: %Quantity
+Method.ВыполнитьЗагрузку.Var.ШаблонОкончание.NStr.Окончание\ загрузки\:\ %Дата.Lines=Download End\: %Date
+Method.ВыполнитьЗагрузку.Var.ШаблонСообщения.NStr.Начало\ загрузки\:\ %Дата.Lines=Download Start\: %Date
+Method.ЗагрузитьТаблицуПредопределенных.Var.ТекстИсключения.NStr.Обнаружено\ дублирование\ предопределенных\ элементов\ %1\ в\ таблице\ %2\!.Lines=Duplicate predefined %1 elements in the %2 table have been detected\!
+Method.ЗаписьКонстанты.Var.ИтоговаяСтрокаСообщения.NStr.При\ выгрузке\ константы\ %1\ возникла\ ошибка\:\n%2.Lines=An error occurred when unloading the %1 constant\:\n%2
+Method.ЗаписьЧерезНаборЗаписей.Var.ИтоговаяСтрокаСообщения.NStr.При\ выгрузке\ регистра\ %1%2\ возникла\ ошибка\:\n%3.Lines=An error occurred when unloading the %1%2 register\:\n%3
+Method.ОбработкаРезультатаЗапроса.Var.ИтоговаяСтрокаСообщения.NStr.При\ выгрузке\ объекта\ %1(%2)\ возникла\ ошибка\:\n%3.Lines=An error occurred when uploading object %1(%2)\:\n%3
+Method.ПолучитьВсеТипы.NStr.Внутренняя\ ошибка\ обработки\ выгрузки.Lines=Internal Upload Processing Error
+Method.СформироватьТаблицуОшибок.NStr.Проверка\ объектов\ на\ наличие\ недопустимых\ символов\ завершена\.\ Ошибок\ не\ обнаружено\..Lines=The feature scan for invalid characters is complete. No errors were found.
+Method.УстановкаСостоянияВыгружатьПриНеобходимости.Var.ТекстИсключения.NStr.Внутренняя\ ошибка\.\ Неполное\ заполнение\ дерева\ метаданных\.\ Отсутствует\ объект,\ образующий\ тип\ %1.Lines=Internal error. Incomplete filling of the metadata tree. Missing object of type %1
+Method.УстановкаСостоянияВыгружатьПриНеобходимости.Var.ТекстИсключения.NStr.Внутренняя\ ошибка\.\ Неполное\ заполнение\ структуры\ ссылочных\ типов\ %1.Lines=Internal error. Incomplete filling of the structure of reference types %1

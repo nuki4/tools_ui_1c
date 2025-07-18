@@ -1,0 +1,18 @@
+#Translations for: interface
+
+Attribute.АдресДвоичныхДанныхКартинки.Title=Binary data address of the picture
+Attribute.Вид.Title=View
+Attribute.ВозвратХранилищаДляКонтейнераЗначения.Title=Return storage for a value container
+Attribute.Размер.Title=Size
+Command.ЗагрузитьИзФайла.Title=Load from File
+Command.Очистить.Title=Purify
+Command.Применить.Title=Apply
+Command.СохранитьВФайл.Title=Save to File
+Item.АдресДвоичныхДанныхКартинки.NonselectedPictureText=Choose a picture
+Item.АдресДвоичныхДанныхКартинки.Title=Picture
+Item.ГруппаКнопкиДляКартинки.Title=Group1
+Item.ГруппаКнопкиЛево.Title=Group1
+Item.ГруппаКнопкиПраво.Title=Group1
+Item.ГруппаШапка.Title=Group2
+Item.ГруппаШапкаЛево.Title=Group1
+Item.ГруппаШапкаПраво.Title=Group1

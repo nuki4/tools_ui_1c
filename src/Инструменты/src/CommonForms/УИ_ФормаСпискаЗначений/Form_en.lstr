@@ -1,0 +1,17 @@
+#Translations for: interface
+
+Attribute.ВозвратХранилищаДляКонтейнераЗначения.Title=Return storage for a value container
+Attribute.ТаблицаСписка.Title=List Table
+Attribute.ТаблицаСписка.Значение.Title=Meaning
+Attribute.ТаблицаСписка.ЗначениеКонтейнер.Title=Meaning of container
+Attribute.ТаблицаСписка.ЗначениеТипЗначения.Title=Value Type
+Attribute.ТаблицаСписка.ЗначениеТипЗначенияПредставление.Title=Value, Value Type, View
+Attribute.ТаблицаСписка.Картинка.Title=Picture
+Attribute.ТаблицаСписка.Пометка.Title=Mark
+Attribute.ТаблицаСписка.Представление.Title=Presentation
+Attribute.ТипЗначенийСписка.Title=Value type
+Attribute.ЭтоМассив.Title=This is an array of
+Command.Применить.Title=Apply
+Item.ТаблицаСпискаЗначениеТипЗначенияПредставление.Title=Type
+Item.ТаблицаСпискаКартинка.NonselectedPictureText=<Пустая>
+Title=Value List Editor

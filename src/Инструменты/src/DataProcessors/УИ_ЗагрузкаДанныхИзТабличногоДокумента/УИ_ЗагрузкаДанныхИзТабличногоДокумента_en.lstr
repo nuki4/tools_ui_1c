@@ -1,0 +1,25 @@
+#Translations for: interface
+
+Attribute.ДополнительныеСвойства.Synonym=Additional properties
+Attribute.ЗамещатьСуществующиеЗаписи.Synonym=Replace existing records
+Attribute.ИмяВидаРегистра.Synonym=Register Type Name
+Attribute.НеСоздаватьНовыхЭлементов.Synonym=Do not create new elements
+Attribute.ПерваяСтрокаДанныхТабличногоДокумента.Synonym=The first line of data in a tabular document
+Attribute.ПередЗаписьюОбъекта.Synonym=Before recording an object
+Attribute.ПослеДобавленияСтроки.Synonym=After adding a row
+Attribute.ПриЗаписиОбъекта.Synonym=When recording an object
+Attribute.РежимЗагрузки.Synonym=Download Mode
+Attribute.РучнаяНумерацияКолонокТабличногоДокумента.Synonym=Manual numbering of tabular document columns
+Attribute.СсылкаИсточника.Synonym=Source Link
+Attribute.ТабличнаяЧастьИсточника.Synonym=Table part of the source
+Attribute.ТипОбъектаСправочника.Synonym=Directory Object Type
+Explanation=Processing is designed to load data into directories and tabular parts of various objects from a table document
+ExtendedPresentation=Loading data from a tabular document
+Form.Форма.Synonym=Form
+Form.ФормаВыбораНастройки.Synonym=Setup Selection Form
+Form.ФормаРедактированияВыражения.Synonym=Expression Editing Form
+Form.ФормаРедактированияСвязи.Synonym=Link Editing Form
+Form.ФормаРедактированияСобытий.Synonym=Event Editing Form
+Form.ФормаСохраненияНастройки.Synonym=Setup Save Form
+Synonym=Loading Data from a Tabular Document [TOU]
+Template.МакетСохраненияНастроек.Synonym=Save Settings Layout

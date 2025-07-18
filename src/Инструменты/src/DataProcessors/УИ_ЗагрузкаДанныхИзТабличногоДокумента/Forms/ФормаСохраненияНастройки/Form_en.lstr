@@ -1,0 +1,20 @@
+#Translations for: interface
+
+Attribute.ИспользоватьПриОткрытии.Title=Use When Opening
+Attribute.СоздавалиНовуюСтроку.Title=Created a new line
+Attribute.СписокНастроек.Title=Settings List
+Attribute.СписокНастроек.Значение.Title=Meaning
+Attribute.СписокНастроек.Пометка.Title=Mark
+Attribute.СписокНастроек.Представление.Title=Presentation
+Command.ОК.Title=OK
+Command.ОК.ToolTip=OK
+Command.Отмена.Title=Cancel
+Command.Отмена.ToolTip=Cancel
+Command.Удалить.Title=Delete
+Command.Удалить.ToolTip=Delete
+Item.ГруппаКнопки.Title=Button group
+Item.ГруппаКнопки.ToolTip=Button group
+Item.ГруппаПоля.Title=Field Group
+Item.ГруппаПоля.ToolTip=Field Group
+Item.ИспользоватьПриОткрытии.Title=Use When Opening
+Title=Saving the setting

@@ -1,0 +1,8 @@
+#Translations for: interface
+
+Explanation=allows low-level editing of reference features. Supports editing document movements.
+ExtendedPresentation=Database Object Requisites Editor
+Form.ФормаОбъекта.Synonym=Object shape
+Form.ФормаРедакторДвижений.Synonym=Motion Editor Form
+Form.ФормаРедакторДвиженийДоп.Synonym=Motion Editor Form
+Synonym=Database Object Attribute Editor [TOU]

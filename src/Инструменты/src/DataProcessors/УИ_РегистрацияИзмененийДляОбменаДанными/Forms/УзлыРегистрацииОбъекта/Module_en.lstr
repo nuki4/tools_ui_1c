@@ -1,0 +1,7 @@
+#Translations for: interface
+
+Method.ДеревоУзловОбменаВыбор.Var.Подсказка.NStr.Номер\ отправленного.Lines=Sent Number
+Method.ИзменитьРегистрацию.Var.ЗаголовокВопроса.NStr.Подтверждение.Lines=Confirmation
+Method.ИзменитьРегистрацию.Var.Текст.NStr.Изменить\ регистрацию\ "%1"\nна\ узлах?.Lines=Change registration "%1"\nat the nodes?
+Method.ИзменитьРегистрациюЗавершение.Var.ЗаголовокОповещения.NStr.Изменение\ регистрации\:.Lines=Change of registration\:
+Method.ИзменитьРегистрациюЗавершение.Var.Текст.NStr.Регистрация\ %1\ была\ изменена\ на\ %2\ узлах.Lines=The %1 registration has been changed to %2 nodes

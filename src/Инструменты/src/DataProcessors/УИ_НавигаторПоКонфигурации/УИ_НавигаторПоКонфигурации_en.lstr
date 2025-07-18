@@ -1,0 +1,12 @@
+#Translations for: interface
+
+Explanation=Processing\: Replacement of the standard "All Functions" menu. There will also be additional administrative functions
+ExtendedPresentation=Configuration Navigator(All Features)
+Form.Форма.Synonym=Form
+Form.ФормаБлокировкиСеансов.Synonym=Session blocking form
+Form.ФормаВыбораМасштабаОтображения.Synonym=Display Scale Selection Form
+Form.ФормаЗапуска1С.Synonym=Launch Form1 s
+Form.ФормаПользовательИБ.Synonym=User of the information base
+Form.ФормаСвойств.Synonym=Form of properties
+Synonym=Configuration Navigator(All Functions) [TOU]
+Template.МакетСервис.Synonym=Layout Service

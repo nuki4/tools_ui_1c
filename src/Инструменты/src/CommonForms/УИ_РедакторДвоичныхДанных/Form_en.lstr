@@ -1,0 +1,9 @@
+#Translations for: interface
+
+Attribute.АдресДвоичныхДанных.Title=Binary Data Address
+Attribute.ВозвратХранилищаДляКонтейнераЗначения.Title=Return storage for a value container
+Attribute.Представление.Title=Presentation
+Attribute.Размер.Title=Size
+Command.ЗагрузитьИзФайла.Title=Load from File
+Command.Применить.Title=Apply
+Command.СохранитьВФайл.Title=Save to File

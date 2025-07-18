@@ -1,0 +1,10 @@
+#Translations for: interface
+
+Attribute.ЗначенияПеречисления.Title=Enumeration values
+Attribute.ЗначенияПеречисления.ЗначениеСтрокой.Title=String Value
+Attribute.ЗначенияПеречисления.Имя.Title=Name
+Attribute.ЗначенияПеречисления.Представление.Title=Presentation
+Attribute.ЗначенияПеречисления.Ссылка.Title=Reference
+Attribute.ПустаяСсылка.Title=Empty link
+Command.ВыбратьЗначение.Title=Choose
+Command.ВыбратьЗначение.ToolTip=Select a value

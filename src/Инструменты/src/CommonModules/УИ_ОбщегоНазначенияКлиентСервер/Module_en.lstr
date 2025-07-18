@@ -1,0 +1,19 @@
+#Translations for: interface
+
+Method.ДополнитьСтруктуру.NStr.Пересечение\ ключей\ источника\ и\ приемника\:\ "%1"\..Lines=Source and sink key intersection\: "%1".
+Method.ПредставлениеТипа.NStr.(всего\ %1\ типов).Lines=(total %1 types)
+Method.ПредставлениеТипов.Var.Результат.NStr.(всего\ %1\ типов).Lines=(total %1 types)
+Method.Проверить.Var.ТекстИсключения.NStr.Недопустимая\ операция.Lines=Invalid operation
+Method.Проверить.Var.ТекстИсключения.NStr.в\ %1.Lines=in %1
+Method.ПроверитьПараметр.NStr.Недопустимо\ значение\ параметра\ ИмяПараметра.Lines=ParameterName is invalid
+Method.ПроверитьПараметр.NStr.Недопустимо\ значение\ параметра\ ИмяПроцедурыИлиФункции.Lines=The value of the ProcedureNameorFunction parameter is invalid
+Method.ПроверитьПараметр.NStr.Недопустимо\ значение\ параметра\ ОжидаемыеТипы.Lines=ExpectedTypes parameter value invalid
+Method.ПроверитьПараметр.NStr.Неопределено.Lines=Unspecified
+Method.ПроверитьПараметр.Var.НедопустимоеСвойство.NStr.Недопустимое\ значение\ свойства\ %1\ в\ параметре\ %2\ (Структура)\ в\ %3\.\ \nОжидалось\:\ %4;\ передано\ значение\:\ %5\ (тип\ %6)\..Lines=Invalid value of the %1 property in the %2 (Structure) parameter is %3. \nExpected\: %4; The value passed\: %5 (type %6).
+Method.ПроверитьПараметр.Var.НедопустимыйПараметр.NStr.Недопустимое\ значение\ параметра\ %1\ в\ %2\.\ \nОжидалось\:\ %3;\ передано\ значение\:\ %4\ (тип\ %5)\..Lines=Invalid value of %1 to %2. \nExpected\: %3; The value passed\: %4 (type %5).
+Method.ПроверитьПараметр.Var.НетСвойства.NStr.Недопустимое\ значение\ параметра\ %1\ (Структура)\ в\ %2\.\ \nВ\ структуре\ ожидалось\ свойство\ %3\ (тип\ %4)\..Lines=The %1 (Structure) parameter is not valid in %2. \nThe structure was expected to have a property of %3 (type %4).
+Method.СравнитьВерсии.NStr.Неправильный\ формат\ параметра\ СтрокаВерсии1\:\ %1.Lines=Incorrect format for VersionString1\: %1
+Method.СравнитьВерсии.NStr.Неправильный\ формат\ параметра\ СтрокаВерсии2\:\ %1.Lines=Incorrect format for VersionString2\: %1
+Method.СравнитьВерсииБезНомераСборки.NStr.Неправильный\ формат\ параметра\ СтрокаВерсии1\:\ %1.Lines=Incorrect format for VersionString1\: %1
+Method.СравнитьВерсииБезНомераСборки.NStr.Неправильный\ формат\ параметра\ СтрокаВерсии2\:\ %1.Lines=Incorrect format for VersionString2\: %1
+Method.ТекстОшибкиПредопределенноеЗначениеНеНайдено.NStr.Предопределенное\ значение\ "%1"\ не\ найдено\..Lines=A predefined value of "%1" was not found.

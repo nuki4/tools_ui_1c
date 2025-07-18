@@ -1,0 +1,16 @@
+#Translations for: interface
+
+Method.ВыполнитьВФоне.NStr.Ошибка\ выполнения.Lines=Execution Error
+Method.ВыполнитьВФоне.NStr.Параметры\ "ВсегдаНеВФоне"\ и\ "ВсегдаВФоне"\nне\ могут\ одновременно\ принимать\ значение\ Истина\ в\ УИ_ДлительныеОперации\.ВыполнитьВФоне\..Lines=AlwaysNotVFone and AlwaysVFone options\ncannot simultaneously be set to True in TOU_Long-Running Operations.
+Method.ВыполнитьПроцедуру.NStr.Неверный\ формат\ параметра\ ИмяПроцедуры\ (переданное\ значение\:\ %1).Lines=Invalid format of ProcedureName (passed value\: %1)
+Method.ВыполнитьФоновоеЗадание.NStr.В\ файловой\ информационной\ базе\ можно\ запустить\ фоновое\ задание\ только\ из\ клиентского\ приложения.Lines=In the file database, you can run a background job only from a client application
+Method.ВыполнитьФоновоеЗадание.NStr.В\ файловой\ информационной\ базе\ невозможно\ одновременно\ выполнять\ более\ одного\ фонового\ задания.Lines=It is not possible to execute more than one background task at the same time in the file information database
+Method.ЗаданиеВыполнено.NStr.Длительные\ операции\.Фоновое\ задание\ не\ найдено.Lines=Long-running operations.Background job not found
+Method.ЗаданиеВыполнено.NStr.Длительные\ операции\.Фоновое\ задание\ отменено\ администратором.Lines=Long-running operations\: Background job canceled by an administrator
+Method.ЗаданиеВыполнено.NStr.Задание\ завершилось\ с\ неизвестной\ ошибкой\..Lines=The quest ended with an unknown error.
+Method.ЗаданиеВыполнено.NStr.Не\ удалось\ выполнить\ данную\ операцию\.\ \nПодробности\ см\.\ в\ Журнале\ регистрации\..Lines=This operation failed. \nSee the Log for details.
+Method.ОперацияВыполнена.NStr.Длительные\ операции.Lines=Long-term operations
+Method.ОперацияВыполнена.NStr.Не\ удалось\ выполнить\ данную\ операцию\..Lines=This operation failed.
+Method.ОперацияВыполнена.NStr.Фоновое\ задание\ не\ найдено\:.Lines=Background job not found\:
+Method.ОперацияВыполнена.Var.ТекстСообщения.NStr.Не\ удалось\ выполнить\ данную\ операцию\..Lines=This operation failed.
+Method.ОтменитьВыполнениеЗадания.NStr.Длительные\ операции\.Отмена\ выполнения\ фонового\ задания.Lines=Long-running operations\: Canceling a background job

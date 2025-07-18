@@ -1,0 +1,11 @@
+#Translations for: interface
+
+Method.ВыполнитьУдаление.NStr.Выполняется\ поиск\ и\ удаление\ помеченных\ объектов.Lines=Searches for and deletes tagged objects
+Method.ВыполнитьУдаление.NStr.Выполняется\ удаление\ выбранных\ объектов.Lines=The selected objects are deleted
+Method.ВыполнитьУдалениеДок.NStr.Недостаточно\ прав\ для\ выполнения\ операции\..Lines=Not enough privileges to perform the operation.
+Method.ЗаполнитьСтрокуРезультатов.Var.СтрокаРезультатов.NStr.Не\ удален\ ни\ один\ из\ объектов,\ так\ как\ в\ информационной\ базе\ существуют\ ссылки\ на\ удаляемые\ объекты.Lines=None of the objects has been deleted, since there are links to deleted objects in the information base
+Method.ЗаполнитьСтрокуРезультатов.Var.СтрокаРезультатов.NStr.Не\ удалено\ объектов\:\ %1\.\nОбъекты\ не\ удалены\ для\ сохранения\ целостности\ информационной\ базы,\ т\.к\.\ на\ них\ еще\ имеются\ ссылки\.\nНажмите\ ОК\ для\ просмотра\ списка\ оставшихся\ (не\ удаленных)\ объектов\..Lines=Objects not deleted\: %1.\nObjects are not deleted to preserve the integrity of the information base, because there are still links to them.\nClick OK to view a list of remaining (not deleted) objects.
+Method.ЗаполнитьСтрокуРезультатов.Var.СтрокаРезультатов.NStr.Удаление\ помеченных\ объектов\ завершено\.\nУдалено\ объектов\:\ %1\..Lines=The deletion of the marked objects is complete.\nObjects removed\: %1.
+Method.ОбновитьСодержание.Var.Текст.NStr.Не\ помечено\ на\ удаление\ ни\ одного\ объекта\.\ Удаление\ объектов\ не\ выполнялось\..Lines=No objects are marked for deletion. Objects were not deleted.
+Method.ОбновитьСодержание.Var.Текст.NStr.Удаление\ помеченных\ объектов\ успешно\ завершено\.\nУдалено\ объектов\:\ %1\..Lines=The deletion of the marked objects was completed successfully.\nObjects removed\: %1.
+Method.ОбновитьСписокПомеченныхНаУдаление.NStr.Выполняется\ поиск\ помеченных\ на\ удаление\ объектов.Lines=Searches for objects marked for deletion

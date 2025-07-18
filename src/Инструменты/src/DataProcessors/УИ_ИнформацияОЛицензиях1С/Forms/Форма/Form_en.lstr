@@ -1,0 +1,24 @@
+#Translations for: interface
+
+Command.АктивироватьЛицензию.Title=Activate License
+Command.АктивироватьЛицензию.ToolTip=Activate License
+Command.ПовторнаяАктивацияЛицензии.Title=License reactivation
+Command.ПовторнаяАктивацияЛицензии.ToolTip=License reactivation
+Command.ПолучитьПолнуюИнформациюОЛицензии.Title=Get full license details
+Command.ПолучитьПолнуюИнформациюОЛицензии.ToolTip=Get full license details
+Command.ПолучитьСписокЛицензий.Title=Get a list of licenses
+Command.ПолучитьСписокЛицензий.ToolTip=Get a list of licenses
+Command.ПроверкаВалидностиЛицензий.Title=Checking the validity of licenses
+Command.ПроверкаВалидностиЛицензий.ToolTip=Checking the validity of licenses
+Command.УдалитьЛицензию.Title=Remove a license
+Command.УдалитьЛицензию.ToolTip=Remove a license
+Item.ГруппаДанныеАктивации.Title=Activation data
+Item.ГруппаДанныеАктивации.ToolTip=Group Activation Data
+Item.ГруппаДругое.Title=Other
+Item.ГруппаДругое.ToolTip=Group Other
+Item.ГруппаИнфо.Title=Information
+Item.ГруппаИнфо.ToolTip=Info Group
+Item.ГруппаПодробно.Title=Group Details
+Item.ГруппаПодробно.ToolTip=Group Details
+Item.ГруппаСтраницыИнформация.Title=Group Info Page
+Item.ГруппаСтраницыИнформация.ToolTip=Group Info Page

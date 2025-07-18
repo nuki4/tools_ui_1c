@@ -1,0 +1,21 @@
+#Translations for: interface
+
+Attribute.БазаДанных.Title=Database
+Attribute.ДопПараметры.Title=Additional. Options
+Attribute.РежимЗапуска.Title=Launch Mode
+Attribute.Сервер.Title=1C Server
+Attribute.Стартер1С.Title=Starter1S
+Attribute.СтрокаКоманды.Title=Command string
+Command.Запустить1С.Title=Start1C
+Command.Запустить1С.ToolTip=Start1C
+Command.СформироватьСтрокуКоманды.Title=Generate a command line
+Command.СформироватьСтрокуКоманды.ToolTip=Generate a command line
+Item.ПараметрыЗапуска.Title=Launch Options
+Item.ПараметрыЗапуска.ToolTip=Launch Options
+Item.РежимЗапуска.ChoiceList.0.Presentation=Configurator
+Item.РежимЗапуска.ChoiceList.1.Presentation=Fat client (regular application)
+Item.РежимЗапуска.ChoiceList.2.Presentation=Fat Client (Managed Application)
+Item.РежимЗапуска.ChoiceList.3.Presentation=Thin client (managed application)
+Item.Стартер1С.ToolTip=Full file path 1cestart.exe (can be set manually)
+Item.СтрокаКоманды.ToolTip=The resulting line of the 1C start command
+Title=Starting a 1C session

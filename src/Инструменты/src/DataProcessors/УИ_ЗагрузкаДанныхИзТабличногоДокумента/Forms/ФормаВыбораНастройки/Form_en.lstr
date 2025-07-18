@@ -1,0 +1,17 @@
+#Translations for: interface
+
+Attribute.СписокНастроек.Title=Settings List
+Attribute.СписокНастроек.Значение.Title=Meaning
+Attribute.СписокНастроек.Пометка.Title=Mark
+Attribute.СписокНастроек.Представление.Title=Presentation
+Command.ОК.Title=OK
+Command.ОК.ToolTip=OK
+Command.Отмена.Title=Cancel
+Command.Отмена.ToolTip=Cancel
+Command.Удалить.Title=Delete
+Command.Удалить.ToolTip=Delete
+Item.ГруппаКнопки.Title=Button group
+Item.ГруппаКнопки.ToolTip=Button group
+Item.ГруппаПоля.Title=Field Group
+Item.ГруппаПоля.ToolTip=Field Group
+Title=Choosing a setting

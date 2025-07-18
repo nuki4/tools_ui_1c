@@ -1,0 +1,14 @@
+#Translations for: interface
+
+Attribute._ПереченьРазделов.Title=List of sections
+Attribute._ПоказыватьПеречисления.Title=Show enumerations
+Attribute._ПоказыватьПростыеТипы.Title=Show simple types
+Attribute._ТипыДляКонсолиЗапросов.Title=Types for the Query Console
+Attribute.ДеревоОбъектов.Title=Object tree
+Attribute.ДеревоОбъектов.Имя.Title=Name
+Attribute.ДеревоОбъектов.Картинка.Title=Picture
+Attribute.ДеревоОбъектов.ПолноеИмя.Title=Full name
+Attribute.ДеревоОбъектов.Синоним.Title=Presentation
+Command.ВыбратьОбъект.Title=Select an object
+Command.ВыбратьОбъект.ToolTip=Select an object
+Title=Configuration Objects

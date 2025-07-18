@@ -1,0 +1,26 @@
+#Translations for: interface
+
+Attribute.НайденныеОбъекты.Title=Found objects
+Attribute.НайденныеОбъекты.Выбрать.Title=Choose
+Attribute.НайденныеОбъекты.Объект.Title=Object
+Attribute.НайденныеОбъекты.Т_НомерСтроки.Title=T line number
+Attribute.НайденныеОбъекты.Т_ТЧ.Title=T PM
+Attribute.НайденныеОбъекты2.Title=Properties found2
+Attribute.ОбрабатыватьТабличныеЧасти.Title=Process tabular parts
+Attribute.ОбъектОбработки.Title=Object of processing
+Attribute.ОбъектПоиска.Title=Search Object
+Attribute.ПолеПроизвольногоАлгоритма.Title=Arbitrary algorithm field
+Attribute.Родитель.Title=Parent
+Attribute.ТекстПроизвольногоАлгоритма.Title=Text of an arbitrary algorithm
+Attribute.ТекущаяНастройка.Title=Current Setup
+Attribute.ТекущаяНастройкаПредставление.Title=Current view setup
+Attribute.ТекущаяСтрока.Title=Current Row
+Attribute.мИспользоватьНастройки.Title=M Use Settings
+Command.ВыполнитьКоманду.Title=Fulfill
+Command.ВыполнитьКоманду.ToolTip=Execute the command
+Command.СохранитьНастройки.Title=Save Settings
+Command.СохранитьНастройки.ToolTip=Save Settings
+Item.ГруппаКнопки.Title=Button group
+Item.ГруппаКнопки.ToolTip=Button group
+Item.ТекущаяНастройка.Title=Current Setup
+Title=Arbitrary algorithm

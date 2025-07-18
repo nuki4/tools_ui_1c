@@ -1,0 +1,8 @@
+#Translations for: interface
+
+Attribute.ВидКолонки.Title=Column view
+Attribute.КолонкаЗапроса.Title=Query Column
+Attribute.ТекстВставки.Title=Insertion text
+Command.Вставить.Title=Insert
+Item.ВидКолонки.ChoiceList.0.Presentation=Unique Link ID
+Item.ВидКолонки.ChoiceList.1.Presentation=Date the link was created

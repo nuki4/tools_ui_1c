@@ -1,0 +1,54 @@
+#Translations for: interface
+
+Method.ВидОбъектаПоТипу.NStr.Неверный\ тип\ значения\ параметра\ (%1).Lines=Invalid parameter value type (%1)
+Method.ВыполнитьМетодОбъекта.NStr.Некорректное\ значение\ параметра\ ИмяМетода\ (%1)\ в\ ОбщегоНазначения\.ВыполнитьМетодОбъекта.Lines=Incorrect value of the MethodName (%1) parameter in GeneralPurpose.ExecuteObjectMethod
+Method.ДобавитьРезультатыЗаменыИзмененныхОбъектов.NStr.Заменены\ не\ все\ места\ использования\.\ Возможно\ места\ использования\ были\ добавлены\ или\ изменены\ другим\ пользователем\..Lines=Not all places of use have been replaced. Usage locations may have been added or modified by another user.
+Method.ЗаменитьСсылкуОднойТранзакцией.Var.Ошибка.NStr.Не\ удалось\ заблокировать\ все\ места\ использования\ %1\:.Lines=Unable to block all usage points %1\:
+Method.ЗаписатьОбъектПриЗаменеСсылок.NStr.При\ записи\ "%1"\ возникает\ циклическая\ ссылка\ в\ иерархии\..Lines=When "%1" is written, a circular link appears in the hierarchy.
+Method.ЗаписатьОбъектПриЗаменеСсылок.NStr.При\ записи\ "%1"\ возникает\ циклическая\ ссылка\ в\ подчинении\..Lines=When "%1" is written, a circular link occurs in the subordination.
+Method.ЗарегистрироватьОшибкуВТаблицу.Var.НовыйШаблон.NStr.Не\ удалось\ начать\ редактирование\ %1\:\ %2.Lines=Editing Failed %1\: %2
+Method.ЗарегистрироватьОшибкуВТаблицу.Var.НовыйШаблон.NStr.Не\ удалось\ начать\ удаление\:\ %2.Lines=Uninstall failed\: %2
+Method.ЗарегистрироватьОшибкуВТаблицу.Var.НовыйШаблон.NStr.Не\ удалось\ обновить\ сведения\ в\ %1\:\ %2.Lines=Unable to update information in %1\: %2
+Method.ЗарегистрироватьОшибкуВТаблицу.Var.НовыйШаблон.NStr.Не\ удалось\ очистить\ сведения\ о\ дубле\ в\ %1\:\ %2.Lines=Failed to clear duplicate details in %1\: %2
+Method.ЗарегистрироватьОшибкуВТаблицу.Var.НовыйШаблон.NStr.Подробности\ в\ журнале\ регистрации\..Lines=Details in the logbook.
+Method.ЗначениеРеквизитаОбъекта.NStr.Неверный\ второй\ параметр\ ИмяРеквизита\:\ \n-\ Имя\ реквизита\ должно\ быть\ заполнено.Lines=The second parameter of AttributeName is invalid\: \n- The name of the requisites must be filled in
+Method.ЗначенияРеквизитовОбъекта.NStr.Неверный\ второй\ параметр\ Реквизиты\:\ %1.Lines=Invalid second parameter Requisites\: %1
+Method.ЗначенияРеквизитовОбъекта.NStr.Неверный\ первый\ параметр\ Ссылка\:\ \n-\ Значение\ должно\ быть\ ссылкой\ или\ именем\ предопределенного\ элемента.Lines=Invalid first parameter Reference\: \n- The value must be a reference or the name of a predefined item
+Method.ЗначенияРеквизитовОбъекта.NStr.Неверный\ тип\ второго\ параметра\ Реквизиты\:\ %1.Lines=Invalid type of the second parameter Attributes\: %1
+Method.ЗначенияРеквизитовОбъекта.NStr.Недостаточно\ прав\ для\ работы\ с\ таблицей\ "%1".Lines=Not enough privileges to work with the "%1" table
+Method.ЗначенияРеквизитовОбъекта.Var.ТекстОшибки.NStr.Неверный\ первый\ параметр\ Ссылка\:\n%1.Lines=Invalid first parameter Reference\:\n%1
+Method.МенеджерОбъектаПоИмени.NStr.Не\ удалось\ получить\ менеджер\ для\ объекта\ "%1".Lines=Failed to get manager for object "%1"
+Method.МенеджерОбъектаПоПолномуИмени.NStr.Неизвестный\ тип\ объекта\ метаданных\ "%1".Lines=Unknown metadata object type "%1"
+Method.МестаИспользования.Var.Представление.NStr.константа.Lines=constant
+Method.МестаИспользования.Var.Представление.NStr.последовательность.Lines=sequence
+Method.НайтиОшибкуДоступностиРеквизитовОбъекта.NStr.Ошибка\ получения\ метаданных\ "%1".Lines=Metadata fetch error "%1"
+Method.НайтиОшибкуДоступностиРеквизитовОбъекта.Var.ТекстОшибки.NStr.-\ Поле\ объекта\ "%1"\ не\ найдено.Lines=- Feature field "%1" not found
+Method.ОписаниеИзмеренийНабора.Var.ДанныеИзмерения.NStr.ДЛФ\=D;\ ДП\='Дата\ не\ задана'.Lines=DLF \= D; DP\='Date not set'
+Method.ОписаниеИзмеренийНабора.Var.ДанныеИзмерения.NStr.ДЛФ\=DT;\ ДП\='Дата\ не\ задана'.Lines=DLF\=DT; DP\='Date not set'
+Method.ОписаниеИзмеренийНабора.Var.ДанныеИзмерения.NStr.ДФ\='yyyy\ "г\."';\ ДП\='Дата\ не\ задана'.Lines=DF \= 'yyyy "г."'; DP\='Date not set'
+Method.ОписаниеИзмеренийНабора.Var.ДанныеИзмерения.NStr.ДФ\='ММММ\ yyyy\ ""г\.""';\ ДП\='Дата\ не\ задана'.Lines=DF \='MMMM yyyy """g.""'; DP\='Date not set'
+Method.ОписаниеИзмеренийНабора.Var.ДанныеИзмерения.NStr.ДФ\='к\ ""квартал\ ""yyyy\ ""г\.""';\ ДП\='Дата\ не\ задана'.Lines=DF \='k ""quarter ""yyyy ""g.""'; DP\='Date not set'
+Method.ОписаниеИзмеренийНабора.Var.ДанныеИзмерения.NStr.Период.Lines=Period
+Method.ОписаниеИзмеренийНабора.Var.ДанныеИзмерения.NStr.Регистратор.Lines=Registrar
+Method.ПодключитьКомпонентуИзМакета.NStr.Не\ удалось\ подключить\ внешнюю\ компоненту\ "%1"\ на\ сервере\nиз\ %2\nпо\ причине\:\nПодключение\ на\ сервере\ не\ из\ макета\ запрещено.Lines=External component "%1" on the server could not connect\nout of %2\nfor the following reasons\:\nConnection on a server that is not from a layout is prohibited
+Method.ПодключитьКомпонентуИзМакета.NStr.Оператор\ Новый\ вернул\ Неопределено.Lines=Operator New Returned Unspecified
+Method.ПодключитьКомпонентуИзМакета.NStr.Подключение\ внешней\ компоненты\ на\ сервере.Lines=Connecting an external component on the server
+Method.ПодключитьКомпонентуИзМакета.Var.ТекстОшибки.NStr.Не\ удалось\ подключить\ внешнюю\ компоненту\ "%1"\ на\ сервере\nиз\ макета\ "%2"\nпо\ причине\:\nМетод\ ПодключитьВнешнююКомпоненту\ вернул\ Ложь\..Lines=External component "%1" on the server could not connect\nFrom the "%2" layout\nfor the following reasons\:\nThe ConnectExternalComponent method returned False.
+Method.ПодключитьКомпонентуИзМакета.Var.ТекстОшибки.NStr.Не\ удалось\ создать\ объект\ внешней\ компоненты\ "%1",\ подключенной\ на\ сервере\nиз\ макета\ "%2",\nпо\ причине\:\n%3.Lines=Could not create an external component object "%1" mounted on the server\nfrom the "%2" layout,\nfor the following reasons\:\n%3
+Method.ПредметСтрокой.Var.Результат.NStr.не\ задан.Lines=not specified
+Method.ПроверитьИмяПроцедурыКонфигурации.NStr.Безопасное\ выполнение\ метода.Lines=Safely execute the method
+Method.ПроверитьИмяПроцедурыКонфигурации.NStr.Неправильный\ формат\ параметра\ ИмяПроцедуры\ (передано\ значение\:\ "%1")\ в\ ОбщегоНазначения\.ВыполнитьМетодКонфигурации.Lines=The ProcedureName parameter (passed\: "%1") is not formatted correctly in GeneralDestination.RunConfigurationMethod
+Method.ПроверитьИмяПроцедурыКонфигурации.NStr.Неправильный\ формат\ параметра\ ИмяПроцедуры\ (передано\ значение\:\ "%1")\ в\ ОбщегоНазначения\.ВыполнитьМетодКонфигурации\:\nИмя\ метода\ "%2"\ не\ соответствует\ требованиям\ образования\ имен\ процедур\ и\ функций\..Lines=The format of the ProcedureName parameter (passed\: "%1") in GeneralPurpose.RunConfigurationMethod\:\nThe method name "%2" does not meet the requirements for naming procedures and functions.
+Method.ПроверитьИмяПроцедурыКонфигурации.NStr.Неправильный\ формат\ параметра\ ИмяПроцедуры\ (передано\ значение\:\ "%1")\ в\ ОбщегоНазначения\.ВыполнитьМетодКонфигурации\:\nНе\ найден\ менеджер\ объекта\ "%2"\..Lines=The format of the ProcedureName parameter (passed\: "%1") in GeneralPurpose.RunConfigurationMethod\:\nObject manager "%2" was not found.
+Method.ПроверитьИмяПроцедурыКонфигурации.NStr.Неправильный\ формат\ параметра\ ИмяПроцедуры\ (передано\ значение\:\ "%1")\ в\ ОбщегоНазначения\.ВыполнитьМетодКонфигурации\:\nНе\ найден\ общий\ модуль\ "%2"\..Lines=The format of the ProcedureName parameter (passed\: "%1") in GeneralPurpose.RunConfigurationMethod\:\nShared module "%2" was not found.
+Method.ПроизвестиЗаменуВКонстанте.Var.Ошибка.NStr.Не\ удалось\ заблокировать\ константу\ %1.Lines=Failed to block constant %1
+Method.ПроизвестиЗаменуВКонстанте.Var.Ошибка.NStr.Не\ удалось\ записать\ %1\ по\ причине\:\ %2.Lines=Could not record %1 for the reason\: %2
+Method.ПроизвестиЗаменуВНаборе.Var.Ошибка.NStr.Не\ удалось\ заблокировать\ набор\ %1.Lines=Failed to lock set %1
+Method.ПроизвестиЗаменуВНаборе.Var.Ошибка.NStr.Не\ удалось\ записать\ %1\ по\ причине\:\ %2.Lines=Could not record %1 for the reason\: %2
+Method.ПроизвестиЗаменуВОбъекте.Var.ТекстОшибки.NStr.Не\ удалось\ заблокировать\ объект\ "%1"\:\n%2.Lines=Object "%1" could not be locked\:\n%2
+Method.ПроизвестиЗаменуВОбъекте.Var.ТекстОшибки.NStr.Не\ удалось\ записать\ %1\ по\ причине\:\ %2.Lines=Could not record %1 for the reason\: %2
+Method.РазметитьМестаИспользования.Var.Текст.NStr.Замена\ ссылок\ в\ "%1"\ не\ поддерживается\..Lines=Replacing references in "%1" is not supported.
+Method.СерверныйМодульМенеджера.NStr.Объект\ метаданных\ "%1"\ не\ найден,\nлибо\ для\ него\ не\ поддерживается\ получение\ модуля\ менеджера\..Lines=Metadata object "%1" not found,\nor it does not support obtaining a manager module.
+Method.СобытиеЖурналаРегистрацииЗаменыСсылок.NStr.Поиск\ и\ удаление\ ссылок.Lines=Find and remove links
+Method.СократитьСтрокуКонтрольнойСуммой.NStr.Параметр\ МаксимальнаяДлина\ не\ может\ быть\ меньше\ 32.Lines=The MaximumLength parameter cannot be less than 32
+Method.УдалитьСсылкиНемонопольно.Var.ТекстОшибки.NStr.Ошибка\ удаления.Lines=Uninstall error

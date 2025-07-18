@@ -1,0 +1,17 @@
+#Translations for: interface
+
+Attribute.НайденныеОбъекты.Title=Found objects
+Attribute.ОбъектОбработки.Title=Object of processing
+Attribute.ОбъектПоиска.Title=Search Object
+Attribute.Родитель.Title=Parent
+Attribute.ТекущаяНастройка.Title=Current Setup
+Attribute.ТекущаяНастройкаПредставление.Title=Current view setup
+Attribute.ТекущаяСтрока.Title=Current Row
+Command.ВыполнитьКоманду.Title=Fulfill
+Command.ВыполнитьКоманду.ToolTip=Execute the command
+Command.СохранитьНастройки.Title=Save Settings
+Command.СохранитьНастройки.ToolTip=Save Settings
+Item.ГруппаКнопки.Title=Button group
+Item.ГруппаКнопки.ToolTip=Button group
+Item.ТекущаяНастройка.Title=Current Setup
+Title=Cancel posting documents

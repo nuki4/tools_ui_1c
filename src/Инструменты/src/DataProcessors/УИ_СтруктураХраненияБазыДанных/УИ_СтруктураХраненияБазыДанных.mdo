@@ -6,10 +6,6 @@
   </producedTypes>
   <name>УИ_СтруктураХраненияБазыДанных</name>
   <synonym>
-    <key>en</key>
-    <value>DB storage structure info</value>
-  </synonym>
-  <synonym>
     <key>ru</key>
     <value>Структура хранения базы данных [УИ]</value>
   </synonym>

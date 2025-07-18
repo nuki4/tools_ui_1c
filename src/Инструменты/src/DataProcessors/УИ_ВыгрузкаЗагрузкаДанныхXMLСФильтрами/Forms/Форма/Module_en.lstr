@@ -1,0 +1,13 @@
+#Translations for: interface
+
+Method.ВыгрузитьДанные.NStr.Выполняется\ выгрузка\ данных\.\ Пожалуйста,\ подождите\.\.\..Lines=Data is being uploaded. Please wait...
+Method.ВыгрузитьДанные.Var.ИмяФайла.NStr.Файл\ выгрузки\.fi.Lines=Upload file.fi
+Method.ВыгрузитьДанные.Var.ИмяФайла.NStr.Файл\ выгрузки\.xml.Lines=File выгрузки.xml
+Method.ВыгрузитьДанные.Var.ТекстСообщения.NStr.Поле\ "Имя\ файла"\ не\ заполнено.Lines=The "File name" field is blank
+Method.ЗагрузитьДанныеЗавершение.NStr.Выполняется\ загрузка\ данных\.\ Пожалуйста,\ подождите\.\.\..Lines=The data is being loaded. Please wait...
+Method.ОбработатьНачалоВыбораФайла.Var.ДиалогВыбораФайла.NStr.Задайте\ имя\ файла\ выгрузки.Lines=Specify the name of the upload file
+Method.ОткрытьВПриложенииЗавершение.NStr.Файл\ не\ найден.Lines=File not found
+Method.ПараметрыКонсолиЗапросов.NStr.Выбор\ данных\ для\ выгрузки.Lines=Selecting the data to upload
+Method.ПересчитатьВыгружаемыеПоСсылке.NStr.Выполняется\ поиск\ объектов\ метаданных,\ которые\ могут\ быть\ выгружены\ по\ ссылкам\.\.\..Lines=Searches for metadata objects that can be unloaded by references...
+Method.ПроверитьВерсиюИРежимСовместимостиПлатформы.NStr.Обработка\ предназначена\ для\ запуска\ на\ версии\ платформы\n1С\:Предприятие\ 8\.3\ с\ отключенным\ режимом\ совместимости\ или\ выше.Lines=Processing is intended to be run on the platform version\n1C\:Enterprise 8.3 with compatibility mode disabled or higher
+Method.УдалитьПредопределенные.NStr.Внимание\!\ после\ удаления\ всех\ предопределенных\ элементов\ будет\ нарушена\ структура\ данных\ и\ \ \ \nВы,\ возможно,\ не\ сможете\ зайти\ в\ программу\ снова\ (\!)\ \nВы\ готовы\ сразу\ после\ выполнения\ загрузить\ новые\ предопределенные\ элементы\ из\ файла\ ?\nПродолжить\ выполнение\ операции?.Lines=Attention\! After deleting all predefined elements, the data structure will be broken and   \nYou may not be able to log in to the program again (\!) \nAre you ready to load new predefined elements from a file right after execution?\nContinue with the operation?

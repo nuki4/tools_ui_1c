@@ -1,0 +1,14 @@
+#Translations for: interface
+
+Attribute.ВозвратХранилищаДляКонтейнераЗначения.Title=Return storage for a value container
+Attribute.ИмяРеквизитаХранилища.Title=Storage Attribute Name
+Attribute.КолонкиТаблицы.Title=Table columns
+Attribute.КолонкиТаблицы.Имя.Title=Name
+Attribute.КолонкиТаблицы.ИмяДляПоиска.Title=Search Name
+Attribute.КолонкиТаблицы.Квалификаторы.Title=Qualifiers
+Attribute.КолонкиТаблицы.ТипЗначения.Title=Value type
+Attribute.ПрефиксОкончаниеКолонокКонтейнера.Title=Prefix for the end of the columns of the container
+Attribute.СериализоватьВXML.Title=Serialize XML
+Attribute.ЭтоДерево.Title=This tree
+Command.Применить.Title=Apply
+Item.ГруппаКолонкиТаблицы.Title=Column

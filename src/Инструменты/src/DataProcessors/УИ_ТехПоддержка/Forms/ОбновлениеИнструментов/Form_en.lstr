@@ -1,0 +1,11 @@
+#Translations for: interface
+
+Attribute.URLАктуальногоРелиза.Title=URL of the actual release
+Attribute.АктуальнаяВерсия.Title=Current version
+Attribute.ВариантПоставки.Title=Delivery option
+Attribute.НеобходимостьОбновления.Title=Need to upgrade
+Attribute.ОбновлениеЧерезСкачиваниеФайлаПоставки.Title=Update via download of the delivery file
+Attribute.ОписаниеИзменений.Title=Patch notes
+Attribute.ПолеИзменений.Title=Change Field
+Attribute.ТекущаяВерсия.Title=Current Version
+Command.Обновить.Title=Refresh

@@ -1,0 +1,29 @@
+#Translations for: interface
+
+Attribute.email.Title=Email
+Attribute.Город.Title=City
+Attribute.Дом.Title=House
+Attribute.Имя.Title=Name
+Attribute.Индекс.Title=Index
+Attribute.Квартира.Title=Apartment
+Attribute.Компания.Title=Company
+Attribute.НомерЛицензии.Title=License number
+Attribute.Отчество.Title=Patronymic
+Attribute.ПинКод.Title=Pin code
+Attribute.ПредыдущийПинКод.Title=Previous pin code
+Attribute.Район.Title=District
+Attribute.Регион.Title=Region
+Attribute.Страна.Title=Country
+Attribute.Строение.Title=Structure
+Attribute.Улица.Title=Street
+Attribute.Фамилия.Title=Surname
+Command.Активировать.Title=Activate
+Command.Активировать.ToolTip=Activate
+Item.ГруппаВладелецЛицензии.Title=License Holder
+Item.ГруппаВладелецЛицензии.ToolTip=License owner group
+Item.ГруппаЛицензия.Title=Group License
+Item.ГруппаЛицензия.ToolTip=Group License
+Item.Компания.Title=Organization
+Item.Регион.Title=Region/Province
+Item.Строение.Title=Building/Building
+Title=License activation
